@@ -148,7 +148,7 @@ function fromEvent(name, value, info) {
 function fromOut(player) {
     var span = document.createElement("span");
     span.classList.add("text-danger");
-    span.appendChild(document.createTextNode("\u2B9F"));
+    span.appendChild(document.createTextNode("\u21E9"));
     span.appendChild(document.createTextNode("\u00A0"));
     span.appendChild(document.createTextNode("\u00A0"));
     span.appendChild(fromPlayer(player));
@@ -158,7 +158,7 @@ function fromOut(player) {
 function fromIn(player) {
     var span = document.createElement("span");
     span.classList.add("text-success");
-    span.appendChild(document.createTextNode("\u2B9D"));
+    span.appendChild(document.createTextNode("\u21E7"));
     span.appendChild(document.createTextNode("\u00A0"));
     span.appendChild(document.createTextNode("\u00A0"));
     span.appendChild(fromPlayer(player));
