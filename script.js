@@ -5,7 +5,7 @@ const EVENTS = {
     "Assist": {"GK": 3, "DF": 3, "MF": 3, "FW": 3},
     "CS": {"GK": 5, "DF": 4, "MF": 0, "FW": 0},
     "Penalty": {"GK": 3, "DF": 2, "MF": 2, "FW": 2},
-    "Save": {"GK": 2, "DF": 4, "MF": 4, "FW": 4},
+    "Save": {"GK": 2, "DF": 10, "MF": 10, "FW": 10},
     "OG": {"GK": -1, "DF": -2, "MF": -2, "FW": -2},
     "Miss": {"GK": -2, "DF": -2, "MF": -2, "FW": -2},
     "Red": {"GK": -2, "DF": -2, "MF": -2, "FW": -2}
