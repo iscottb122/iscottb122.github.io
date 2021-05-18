@@ -197,7 +197,6 @@ function createCard(value, title, rows) {
 
     var header = document.createElement("div");
     header.classList.add("card-header");
-    header.classList.add("lead");
     header.appendChild(title);
     card.appendChild(header);
 
