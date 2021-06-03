@@ -45,8 +45,8 @@ function load(data) {
     var pick = 0;
     var cards = [];
 
-    data.split("\n").forEach(line => {
-        var tokens = line.split(" ");
+    data.split("\n").filter(line => line != "").forEach(line => {
+        var tokens = line.split(" ").filter(token => token != "");
         var type = tokens[0];
         var arg = tokens[1];
         var getString = index => tokens.slice(index).join(" ");

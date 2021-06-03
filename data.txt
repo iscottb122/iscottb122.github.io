@@ -3,6 +3,7 @@ Manager ENG Mitesh Patel
 Manager POR Ed Santos
 Manager ENG Tom Paton
 Manager ENG Stephen Brooks
+
 Country ITA
 Player GK Salvatore Sirigu
 Player DF Giovanni Di Lorenzo
@@ -30,6 +31,7 @@ Player DF Alessandro Bastoni
 Player DF Alessandro Florenzi
 Player DF Rafael Tolói
 Player GK Alex Meret
+
 Country SUI
 Player GK Yann Sommer
 Player DF Kevin Mbabu
@@ -57,6 +59,7 @@ Player MF Xherdan Shaqiri
 Player DF Bećir Omeragić
 Player DF Eray Cömert
 Player DF Jordan Lotomba
+
 Country TUR
 Player GK Mert Günok
 Player DF Zeki Çelik
@@ -84,6 +87,7 @@ Player GK Uğurcan Çakır
 Player MF Kerem Aktürkoğlu
 Player DF Mert Müldür
 Player MF Halil Dervişoğlu
+
 Country WAL
 Player GK Wayne Hennessey
 Player DF Chris Gunter
@@ -111,6 +115,7 @@ Player MF Dylan Levitt
 Player DF Ben Cabango
 Player MF Rubin Colwill
 Player MF Matthew Smith
+
 Country BEL
 Player GK Thibaut Courtois
 Player DF Toby Alderweireld
@@ -138,6 +143,7 @@ Player FW Michy Batshuayi
 Player FW Leandro Trossard
 Player FW Jérémy Doku
 Player MF Dennis Praet
+
 Country DEN
 Player GK Kasper Schmeichel
 Player DF Joachim Andersen
@@ -165,6 +171,7 @@ Player MF Pierre-Emile Højbjerg
 Player MF Mathias Jensen
 Player MF Anders Christiansen
 Player DF Nicolai Boilesen
+
 Country FIN
 Player GK Lukáš Hrádecký
 Player DF Paulus Arajuuri
@@ -192,6 +199,7 @@ Player GK Anssi Jaakkola
 Player MF Onni Valakari
 Player DF Robert Ivanov
 Player FW Marcus Forss
+
 Country RUS
 Player GK Anton Shunin
 Player DF Mário Fernandes
@@ -219,6 +227,7 @@ Player MF Daler Kuzyayev
 Player MF Andrei Mostovoy
 Player FW Denis Makarov
 Player MF Maksim Mukhin
+
 Country AUT
 Player GK Alexander Schlager
 Player DF Andreas Ulmer
@@ -246,6 +255,7 @@ Player MF Xaver Schlager
 Player MF Konrad Laimer
 Player FW Saša Kalajdžić
 Player DF Marco Friedl
+
 Country NED
 Player GK Maarten Stekelenburg
 Player DF Joël Veltman
@@ -273,6 +283,7 @@ Player GK Marco Bizot
 Player MF Teun Koopmeiners
 Player MF Jurriën Timber
 Player FW Cody Gakpo
+
 Country MKD
 Player GK Stole Dimitrievski
 Player DF Egzon Bejtulai
@@ -300,6 +311,7 @@ Player FW Marjan Radeski
 Player FW Daniel Avramovski
 Player MF Darko Churlinov
 Player MF Milan Ristovski
+
 Country UKR
 Player GK Heorhiy Bushchan
 Player DF Eduard Sobol
@@ -327,6 +339,7 @@ Player GK Anatoliy Trubin
 Player DF Oleksandr Tymchyk
 Player DF Denys Popov
 Player FW Artem Dovbyk
+
 Country CRO
 Player GK Dominik Livaković
 Player DF Šime Vrsaljko
@@ -354,6 +367,7 @@ Player GK Simon Sluga
 Player DF Domagoj Bradarić
 Player DF Joško Gvardiol
 Player MF Luka Ivanušec
+
 Country CZE
 Player GK Tomáš Vaclík
 Player DF Pavel Kadeřábek
@@ -381,6 +395,7 @@ Player GK Jiří Pavlenka
 Player FW Tomáš Pekhart
 Player MF Jakub Pešek
 Player MF Michal Sadílek
+
 Country ENG
 Player GK Jordan Pickford
 Player DF Kyle Walker
@@ -408,6 +423,7 @@ Player GK Sam Johnstone
 Player DF Reece James
 Player MF Bukayo Saka
 Player MF Jude Bellingham
+
 Country SCO
 Player GK David Marshall
 Player DF Stephen O'Donnell
@@ -435,6 +451,7 @@ Player MF Billy Gilmour
 Player DF Jack Hendry
 Player MF James Forrest
 Player DF Scott McKenna
+
 Country POL
 Player GK Wojciech Szczęsny
 Player DF Kamil Piątkowski
@@ -462,6 +479,7 @@ Player FW Dawid Kownacki
 Player FW Jakub Świerczok
 Player DF Michał Helik
 Player DF Tymoteusz Puchacz
+
 Country SVK
 Player GK Martin Dúbravka
 Player DF Peter Pekarík
@@ -489,6 +507,7 @@ Player GK Marek Rodák
 Player DF Martin Koscelník
 Player MF Jakub Hromada
 Player FW Ivan Schranz
+
 Country ESP
 Player GK David de Gea
 Player DF César Azpilicueta
@@ -514,6 +533,7 @@ Player MF Pablo Sarabia
 Player GK Unai Simón
 Player DF Aymeric Laporte
 Player FW Pedri
+
 Country SWE
 Player GK Robin Olsen
 Player DF Mikael Lustig
@@ -541,6 +561,7 @@ Player GK Kristoffer Nordfeldt
 Player DF Marcus Danielson
 Player FW Jordan Larsson
 Player MF Jens Cajuste
+
 Country FRA
 Player GK Hugo Lloris
 Player DF Benjamin Pavard
@@ -568,6 +589,7 @@ Player GK Mike Maignan
 Player DF Léo Dubois
 Player DF Jules Koundé
 Player FW Marcus Thuram
+
 Country GER
 Player GK Manuel Neuer
 Player DF Antonio Rüdiger
@@ -595,6 +617,7 @@ Player DF Emre Can
 Player DF Robin Koch
 Player FW Thomas Müller
 Player DF Christian Günter
+
 Country HUN
 Player GK Péter Gulácsi
 Player DF Ádám Lang
@@ -622,6 +645,7 @@ Player FW Nemanja Nikolić
 Player FW Szabolcs Schön
 Player FW János Hahn
 Player DF Bendegúz Bolla
+
 Country POR
 Player GK Rui Patrício
 Player DF Nélson Semedo
@@ -649,10 +673,12 @@ Player FW João Félix
 Player MF Sérgio Oliveira
 Player DF Nuno Mendes
 Player MF João Palhinha
+
 Draft Harry Kane
 Draft Kylian Mbappé
 Draft Cristiano Ronaldo
 Draft Romelu Lukaku
 Draft Karim Benzema
+
 Draft Thibaut Courtois
 Draft Gianluigi Donnarumma
