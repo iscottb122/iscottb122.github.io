@@ -187,7 +187,7 @@ Player MF Rasmus Schüller
 Player GK Jesse Joronen
 Player MF Pyry Soiri
 Player MF Tim Sparv
-Player DF Sauli Väisänen
+Player DF Niko Hämäläinen
 Player DF Thomas Lam
 Player MF Nikolai Alho
 Player DF Jere Uronen
@@ -267,7 +267,7 @@ Player FW Steven Berghuis
 Player MF Georginio Wijnaldum
 Player FW Luuk de Jong
 Player FW Memphis Depay
-Player MF Quincy Promes
+Player FW Quincy Promes
 Player DF Patrick van Aanholt
 Player GK Tim Krul
 Player MF Davy Klaassen
@@ -281,7 +281,7 @@ Player MF Frenkie de Jong
 Player DF Denzel Dumfries
 Player GK Marco Bizot
 Player MF Teun Koopmeiners
-Player MF Jurriën Timber
+Player DF Jurriën Timber
 Player FW Cody Gakpo
 
 Country MKD
@@ -418,7 +418,7 @@ Player FW Dominic Calvert-Lewin
 Player MF Mason Mount
 Player MF Phil Foden
 Player DF Ben Chilwell
-Player DF Trent Alexander-Arnold
+Player DF Ben White
 Player GK Sam Johnstone
 Player DF Reece James
 Player MF Bukayo Saka
