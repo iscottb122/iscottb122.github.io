@@ -16,7 +16,7 @@ Player MF Jorginho
 Player FW Andrea Belotti
 Player FW Lorenzo Insigne
 Player FW Domenico Berardi
-Player MF Stefano Sensi
+Player MF Matteo Pessina
 Player DF Emerson
 Player MF Federico Chiesa
 Player DF Francesco Acerbi
@@ -267,7 +267,7 @@ Player FW Steven Berghuis
 Player MF Georginio Wijnaldum
 Player FW Luuk de Jong
 Player FW Memphis Depay
-Player FW Quincy Promes
+Player MF Quincy Promes
 Player DF Patrick van Aanholt
 Player GK Tim Krul
 Player MF Davy Klaassen
@@ -276,12 +276,11 @@ Player MF Ryan Gravenberch
 Player DF Daley Blind
 Player FW Donyell Malen
 Player FW Wout Weghorst
-Player MF Donny van de Beek
 Player MF Frenkie de Jong
 Player DF Denzel Dumfries
 Player GK Marco Bizot
 Player MF Teun Koopmeiners
-Player DF Jurriën Timber
+Player MF Jurriën Timber
 Player FW Cody Gakpo
 
 Country MKD
@@ -459,7 +458,6 @@ Player MF Paweł Dawidowicz
 Player DF Tomasz Kędziora
 Player DF Jan Bednarek
 Player MF Kacper Kozłowski
-Player FW Arkadiusz Milik
 Player MF Karol Linetty
 Player FW Robert Lewandowski
 Player MF Grzegorz Krychowiak
