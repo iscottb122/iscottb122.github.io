@@ -768,7 +768,28 @@ Assist Jere Uronen
 Goal Joel Pohjanpalo
 Save Lukáš Hrádecký
 Miss Pierre-Emile Højbjerg
+Player GK Lukáš Hrádecký
+Player DF Paulus Arajuuri
+Player DF Daniel O'Shaughnessy
+Player DF Joona Toivio
+Player DF Leo Väisänen
+Player DF Jere Uronen
+Player DF Jukka Raitala
 
 Assist Dries Mertens
 Goal Romelu Lukaku
 Goal Thomas Meunier
+Assist Thomas Meunier
+Goal Romelu Lukaku
+CS Thibaut Courtois
+CS Toby Alderweireld
+CS Thomas Vermaelen
+CS Dedryck Boyata
+CS Jan Vertonghen
+CS Thomas Meunier
+CS Timothy Castagne
+
+Out Karim Benzema
+In Christian Benteke
+Out Christian Benteke
+In Karim Benzema
