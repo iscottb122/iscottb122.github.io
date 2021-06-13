@@ -823,3 +823,5 @@ Assist Roman Yaremchuk
 Goal Andriy Yarmolenko
 Assist Ruslan Malinovskyi
 Goal Roman Yaremchuk
+Assist Nathan Aké
+Goal Denzel Dumfries
