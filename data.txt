@@ -814,3 +814,5 @@ Goal Stefan Lainer
 Goal Goran Pandev
 Assist David Alaba
 Goal Michael Gregoritsch
+Assist Konrad Laimer
+Goal Marko Arnautović
