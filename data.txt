@@ -768,13 +768,13 @@ Assist Jere Uronen
 Goal Joel Pohjanpalo
 Save Lukáš Hrádecký
 Miss Pierre-Emile Højbjerg
-Player GK Lukáš Hrádecký
-Player DF Paulus Arajuuri
-Player DF Daniel O'Shaughnessy
-Player DF Joona Toivio
-Player DF Leo Väisänen
-Player DF Jere Uronen
-Player DF Jukka Raitala
+CS Lukáš Hrádecký
+CS Paulus Arajuuri
+CS Daniel O'Shaughnessy
+CS Joona Toivio
+CS Leo Väisänen
+CS Jere Uronen
+CS Jukka Raitala
 
 Assist Dries Mertens
 Goal Romelu Lukaku
