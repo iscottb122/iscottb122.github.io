@@ -794,3 +794,6 @@ Out Karim Benzema
 In Christian Benteke
 Out Christian Benteke
 In Karim Benzema
+
+Out João Cancelo
+In Yannick Carrasco
