@@ -11,7 +11,7 @@ Player DF Giorgio Chiellini
 Player DF Leonardo Spinazzola
 Player MF Manuel Locatelli
 Player MF Marco Verratti
-Player MF Lorenzo Pellegrini
+Player MF Gaetano Castrovilli
 Player MF Jorginho
 Player FW Andrea Belotti
 Player FW Lorenzo Insigne
@@ -224,7 +224,7 @@ Player FW Aleksei Ionov
 Player MF Daniil Fomin
 Player FW Artem Dzyuba
 Player MF Daler Kuzyayev
-Player MF Andrei Mostovoy
+Player DF Roman Yevgenyev
 Player FW Denis Makarov
 Player MF Maksim Mukhin
 
@@ -390,7 +390,7 @@ Player FW Adam Hložek
 Player FW Matěj Vydra
 Player MF Alex Král
 Player DF Aleš Matějů
-Player GK Jiří Pavlenka
+Player GK Tomáš Koubek
 Player FW Tomáš Pekhart
 Player MF Jakub Pešek
 Player MF Michal Sadílek
