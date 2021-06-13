@@ -665,6 +665,7 @@ Player MF Gonçalo Guedes
 Player MF Rúben Neves
 Player MF Pedro Gonçalves
 Player DF João Cancelo
+Player DF Diogo Dalot
 Player FW Diogo Jota
 Player GK Rui Silva
 Player FW João Félix
