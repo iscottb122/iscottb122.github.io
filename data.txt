@@ -842,3 +842,6 @@ Assist Maciej Rybus
 Goal Karol Linetty
 Assist Marek Hamšík
 Goal Milan Škriniar
+
+Out David Alaba
+In Koke
