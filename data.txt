@@ -843,5 +843,18 @@ Goal Karol Linetty
 Assist Marek Hamšík
 Goal Milan Škriniar
 
+Player GK Unai Simón
+Player DF Pau Torres
+Player DF Jordi Alba
+Player DF Aymeric Laporte
+
+Player GK Robin Olsen
+Player DF Mikael Lustig
+Player DF Victor Lindelöf
+Player DF Pierre Bengtsson
+Player DF Ludwig Augustinsson
+Player DF Emil Krafth
+Player DF Marcus Danielson
+
 Out David Alaba
 In Koke
