@@ -829,12 +829,12 @@ Goal Denzel Dumfries
 Assist Vladimír Coufal
 Goal Patrik Schick
 Goal Patrik Schick
-Player GK Tomáš Vaclík
-Player DF Ondřej Čelůstka
-Player DF Vladimír Coufal
-Player DF Tomáš Kalas
-Player DF Tomáš Holeš
-Player DF Jan Bořil
+CS Tomáš Vaclík
+CS Ondřej Čelůstka
+CS Vladimír Coufal
+CS Tomáš Kalas
+CS Tomáš Holeš
+CS Jan Bořil
 
 Assist Róbert Mak
 OG Wojciech Szczęsny
