@@ -897,3 +897,7 @@ Transfer
 
 Out Ruslan Malinovskyi
 In Leroy Sané
+Out Andriy Yarmolenko
+In Robert Lewandowski
+Out Oleksandr Zinchenko
+In Ricardo Rodríguez
