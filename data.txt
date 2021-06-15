@@ -53,7 +53,7 @@ Player DF Loris Benito
 Player FW Admir Mehmedi
 Player FW Mario Gavranović
 Player MF Edimilson Fernandes
-Player GK Jonas Omlin
+Player GK Gregor Kobel
 Player DF Fabian Schär
 Player MF Xherdan Shaqiri
 Player DF Bećir Omeragić
@@ -408,7 +408,7 @@ Player FW Harry Kane
 Player FW Raheem Sterling
 Player FW Marcus Rashford
 Player DF Kieran Trippier
-Player GK Dean Henderson
+Player GK Aaron Ramsdale
 Player MF Kalvin Phillips
 Player DF Tyrone Mings
 Player DF Conor Coady
