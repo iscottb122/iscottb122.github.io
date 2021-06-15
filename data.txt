@@ -877,3 +877,14 @@ CS Benjamin Pavard
 CS Presnel Kimpembe
 CS Raphaël Varane
 CS Lucas Hernandez
+
+Out Ricardo Rodríguez
+In Joshua Kimmich
+Out Robert Lewandowski
+In Andriy Yarmolenko
+Out Joshua Kimmich
+In Oleksandr Zinchenko
+Out Alessandro Florenzi
+In Giovanni Di Lorenzo
+Out Koke
+In Jan Vertonghen
