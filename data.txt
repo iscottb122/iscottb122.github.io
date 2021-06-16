@@ -913,3 +913,5 @@ CS Georgi Dzhikiya
 Assist Gareth Bale
 Goal Aaron Ramsey
 Miss Gareth Bale
+Assist Gareth Bale
+Goal Connor Roberts
