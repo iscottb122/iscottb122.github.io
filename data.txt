@@ -941,3 +941,6 @@ Out Giorgio Chiellini
 In Francesco Acerbi
 Out Alessandro Bastoni
 In Manuel Locatelli
+
+Assist Oleksandr Karavayev
+Goal Andriy Yarmolenko
