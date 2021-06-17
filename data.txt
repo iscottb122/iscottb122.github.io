@@ -946,3 +946,5 @@ Assist Oleksandr Karavayev
 Goal Andriy Yarmolenko
 Assist Andriy Yarmolenko
 Goal Roman Yaremchuk
+Miss Ezgjan Alioski
+Goal Ezgjan Alioski
