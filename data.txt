@@ -944,3 +944,5 @@ In Manuel Locatelli
 
 Assist Oleksandr Karavayev
 Goal Andriy Yarmolenko
+Assist Andriy Yarmolenko
+Goal Roman Yaremchuk
