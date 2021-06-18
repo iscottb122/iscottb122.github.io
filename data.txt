@@ -970,3 +970,5 @@ CS Stefan de Vrij
 CS Patrick van Aanholt
 CS Daley Blind
 CS Denzel Dumfries
+
+Goal Emil Forsberg
