@@ -847,7 +847,6 @@ CS Unai Simón
 CS Pau Torres
 CS Jordi Alba
 CS Aymeric Laporte
-
 CS Robin Olsen
 CS Mikael Lustig
 CS Victor Lindelöf
@@ -972,3 +971,10 @@ CS Daley Blind
 CS Denzel Dumfries
 
 Goal Emil Forsberg
+CS Robin Olsen
+CS Mikael Lustig
+CS Victor Lindelöf
+CS Pierre Bengtsson
+CS Ludwig Augustinsson
+CS Emil Krafth
+CS Marcus Danielson
