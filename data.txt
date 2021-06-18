@@ -978,3 +978,5 @@ CS Pierre Bengtsson
 CS Ludwig Augustinsson
 CS Emil Krafth
 CS Marcus Danielson
+
+Goal Patrik Schick
