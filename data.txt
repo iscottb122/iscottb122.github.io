@@ -1010,3 +1010,10 @@ Assist Joshua Kimmich
 Goal Robin Gosens
 Assist Cristiano Ronaldo
 Goal Diogo Jota
+
+Out Federico Chiesa
+In Diogo Jota
+Out Ricardo Rodríguez
+In Robin Gosens
+Out Phil Foden
+In Kai Havertz
