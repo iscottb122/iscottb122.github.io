@@ -1017,3 +1017,5 @@ Out Ricardo Rodríguez
 In Robin Gosens
 Out Phil Foden
 In Kai Havertz
+Out Raheem Sterling
+In Andriy Yarmolenko
