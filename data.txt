@@ -993,3 +993,6 @@ CS Stephen O'Donnell
 CS Andrew Robertson
 CS Grant Hanley
 CS Kieran Tierney
+
+Assist Attila Fiola
+Goal Roland Sallai
