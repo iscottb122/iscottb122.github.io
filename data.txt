@@ -1034,3 +1034,5 @@ Out Luka Modrić
 In Federico Chiesa
 Out Gerard Moreno
 In Álvaro Morata
+Out Marcos Llorente
+In Patrick van Aanholt
