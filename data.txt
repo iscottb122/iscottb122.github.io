@@ -1019,3 +1019,6 @@ Out Phil Foden
 In Kai Havertz
 Out Raheem Sterling
 In Andriy Yarmolenko
+
+Out Robert Lewandowski
+In Gerard Moreno
