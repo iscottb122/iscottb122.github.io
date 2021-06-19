@@ -994,5 +994,5 @@ CS Andrew Robertson
 CS Grant Hanley
 CS Kieran Tierney
 
-Assist Attila Fiola
-Goal Roland Sallai
+Assist Roland Sallai
+Goal Attila Fiola
