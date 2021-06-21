@@ -1082,3 +1082,6 @@ CS Stefan de Vrij
 CS Patrick van Aanholt
 CS Daley Blind
 CS Denzel Dumfries
+
+Assist Pierre-Emile Højbjerg
+Goal Mikkel Damsgaard
