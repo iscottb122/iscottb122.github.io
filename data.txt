@@ -1064,6 +1064,11 @@ CS Rafael Tolói
 
 Assist David Alaba
 Goal Christoph Baumgartner
+CS Daniel Bachmann
+CS Aleksandar Dragović
+CS Martin Hinteregger
+CS David Alaba
+CS Stefan Lainer
 
 Assist Donyell Malen
 Goal Memphis Depay
@@ -1071,3 +1076,9 @@ Assist Memphis Depay
 Goal Georginio Wijnaldum
 Assist Memphis Depay
 Goal Georginio Wijnaldum
+CS Maarten Stekelenburg
+CS Matthijs de Ligt
+CS Stefan de Vrij
+CS Patrick van Aanholt
+CS Daley Blind
+CS Denzel Dumfries
