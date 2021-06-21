@@ -1100,3 +1100,6 @@ CS Thomas Vermaelen
 CS Dedryck Boyata
 CS Thomas Meunier
 CS Jason Denayer
+
+Out Leroy Sané
+In Aaron Ramsey
