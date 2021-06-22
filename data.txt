@@ -892,6 +892,8 @@ In Wout Weghorst
 Out Leroy Sané
 In Ruslan Malinovskyi
 
+Transfer
+
 Out Ruslan Malinovskyi
 In Leroy Sané
 Out Andriy Yarmolenko
@@ -1034,6 +1036,8 @@ Out Gerard Moreno
 In Álvaro Morata
 Out Marcos Llorente
 In Patrick van Aanholt
+
+Transfer
 
 Out Artem Dzyuba
 In Giorgio Chiellini
