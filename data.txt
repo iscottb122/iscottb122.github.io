@@ -1122,3 +1122,6 @@ Assist Mateo Kovačić
 Goal Luka Modrić
 Assist Luka Modrić
 Goal Ivan Perišić
+
+Out Andriy Yarmolenko
+In Yussuf Poulsen
