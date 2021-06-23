@@ -1156,3 +1156,6 @@ CS Pau Torres
 CS Eric García
 CS Jordi Alba
 CS Aymeric Laporte
+
+Out Jack Grealish
+In Pablo Sarabia
