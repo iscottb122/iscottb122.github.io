@@ -1169,3 +1169,6 @@ Out Francesco Acerbi
 In İlkay Gündoğan
 Out Federico Chiesa
 In Ferran Torres
+
+Out Roland Sallai
+In Ádám Szalai
