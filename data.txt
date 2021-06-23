@@ -1144,3 +1144,5 @@ Assist Jordi Alba
 Goal Pablo Sarabia
 Assist Pablo Sarabia
 Goal Ferran Torres
+Assist Pau Torres
+Goal Juraj Kucka
