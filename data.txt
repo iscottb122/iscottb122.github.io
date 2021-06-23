@@ -1125,3 +1125,5 @@ Goal Ivan Perišić
 
 Out Andriy Yarmolenko
 In Yussuf Poulsen
+Out Aaron Ramsey
+In Luka Modrić
