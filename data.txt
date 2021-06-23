@@ -1200,3 +1200,5 @@ Out Serge Gnabry
 In Mason Mount
 Out Robin Gosens
 In Luke Shaw
+Out Bernardo Silva
+In Robin Gosens
