@@ -1142,3 +1142,5 @@ Assist Gerard Moreno
 Goal Aymeric Laporte
 Assist Jordi Alba
 Goal Pablo Sarabia
+Assist Pablo Sarabia
+Goal Ferran Torres
