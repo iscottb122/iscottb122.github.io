@@ -1129,6 +1129,10 @@ Out Aaron Ramsey
 In Luka Modrić
 
 Goal Emil Forsberg
+Assist Dejan Kulusevski
+Goal Emil Forsberg
+Assist Piotr Zieliński
+Goal Robert Lewandowski
 
 Save Martin Dúbravka
 Miss Álvaro Morata
@@ -1136,3 +1140,5 @@ Assist Pablo Sarabia
 OG Martin Dúbravka
 Assist Gerard Moreno
 Goal Aymeric Laporte
+Assist Jordi Alba
+Goal Pablo Sarabia
