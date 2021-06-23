@@ -1196,3 +1196,7 @@ Out Bernardo Silva
 In Kalvin Phillips
 Out Joshua Kimmich
 In Bernardo Silva
+Out Serge Gnabry
+In Mason Mount
+Out Robin Gosens
+In Luke Shaw
