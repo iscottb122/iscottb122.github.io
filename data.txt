@@ -1176,9 +1176,13 @@ Assist Mats Hummels
 Goal Kai Havertz
 Assist Ádám Szalai
 Goal András Schäfer
+Goal Leon Goretzka
 
 Goal Cristiano Ronaldo
 Goal Karim Benzema
 Assist Paul Pogba
 Goal Karim Benzema
 Goal Cristiano Ronaldo
+
+Out Kai Havertz
+In Raheem Sterling
