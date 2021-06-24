@@ -1202,3 +1202,5 @@ Out Robin Gosens
 In Luke Shaw
 Out Bernardo Silva
 In Robin Gosens
+Out Kalvin Phillips
+In Nicolò Barella
