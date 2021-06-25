@@ -1212,3 +1212,5 @@ Out Mason Mount
 In Emil Forsberg
 Out Pau Torres
 In César Azpilicueta
+Out César Azpilicueta
+In Pau Torres
