@@ -1249,3 +1249,5 @@ CS Aleksandar Dragović
 CS Martin Hinteregger
 CS David Alaba
 CS Stefan Lainer
+Assist Leonardo Spinazzola
+Goal Federico Chiesa
