@@ -1251,3 +1251,5 @@ CS David Alaba
 CS Stefan Lainer
 Assist Leonardo Spinazzola
 Goal Federico Chiesa
+Assist Francesco Acerbi
+Goal Matteo Pessina
