@@ -1238,3 +1238,14 @@ CS Joakim Mæhle
 CS Andreas Christensen
 CS Jens Stryger Larsen
 CS Nicolai Boilesen
+
+CS Gianluigi Donnarumma
+CS Giovanni Di Lorenzo
+CS Leonardo Spinazzola
+CS Francesco Acerbi
+CS Leonardo Bonucci
+CS Daniel Bachmann
+CS Aleksandar Dragović
+CS Martin Hinteregger
+CS David Alaba
+CS Stefan Lainer
