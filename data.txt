@@ -1219,3 +1219,5 @@ Transfer
 
 Out Yussuf Poulsen
 In Serge Gnabry
+Out Serge Gnabry
+In Marco Verratti
