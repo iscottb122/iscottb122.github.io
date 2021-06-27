@@ -1267,6 +1267,12 @@ Assist Tomáš Kalas
 Goal Tomáš Holeš
 Assist Tomáš Kalas
 Goal Patrik Schick
+CS Tomáš Vaclík
+CS Pavel Kadeřábek
+CS Ondřej Čelůstka
+CS Vladimír Coufal
+CS Tomáš Kalas
+CS Tomáš Holeš
 
 Out Patrick van Aanholt
 In Federico Chiesa
