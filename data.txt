@@ -1378,3 +1378,5 @@ Out Dries Mertens
 In Xherdan Shaqiri
 Out Antoine Griezmann
 In Haris Seferović
+Out Benjamin Pavard
+In Tomáš Souček
