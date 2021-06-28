@@ -1351,3 +1351,15 @@ Out Thomas Vermaelen
 In Jan Vertonghen
 Out Lucas Hernandez
 In Thorgan Hazard
+Out Karim Benzema
+In Pedri
+Out Presnel Kimpembe
+In Joakim Mæhle
+Out Raphaël Varane
+In Tyrone Mings
+Out Kylian Mbappé
+In Pau Torres
+Out Paul Pogba
+In Dries Mertens
+Out Pau Torres
+In Andreas Christensen
