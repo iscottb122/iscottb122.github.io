@@ -1347,3 +1347,5 @@ Out Luka Modrić
 In Matteo Pessina
 Out Jason Denayer
 In Thomas Vermaelen
+Out Thomas Vermaelen
+In Jan Vertonghen
