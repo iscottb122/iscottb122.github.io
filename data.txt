@@ -1314,3 +1314,6 @@ Assist José Gayà
 Goal Pablo Sarabia
 Assist Ferran Torres
 Goal César Azpilicueta
+
+Out Pau Torres
+In César Azpilicueta
