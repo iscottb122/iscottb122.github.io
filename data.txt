@@ -1410,3 +1410,5 @@ Out Manuel Neuer
 In Kasper Schmeichel
 Out Robin Gosens
 In Thomas Vermaelen
+Out Eden Hazard
+In Mikkel Damsgaard
