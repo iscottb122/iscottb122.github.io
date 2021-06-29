@@ -1389,3 +1389,9 @@ Assist Luke Shaw
 Goal Raheem Sterling
 Assist Jack Grealish
 Goal Harry Kane
+CS Jordan Pickford
+CS Kyle Walker
+CS Luke Shaw
+CS John Stones
+CS Harry Maguire
+CS Kieran Trippier
