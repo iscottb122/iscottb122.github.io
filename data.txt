@@ -1406,6 +1406,8 @@ Goal Oleksandr Zinchenko
 Assist Alexander Isak
 Goal Emil Forsberg
 Red Marcus Danielson
+Assist Oleksandr Zinchenko
+Goal Artem Dovbyk
 
 Out Manuel Neuer
 In Kasper Schmeichel
@@ -1413,3 +1415,5 @@ Out Robin Gosens
 In Thomas Vermaelen
 Out Eden Hazard
 In Mikkel Damsgaard
+Out Emil Forsberg
+In Gerard Moreno
