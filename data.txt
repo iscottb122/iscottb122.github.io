@@ -1382,3 +1382,5 @@ Out Benjamin Pavard
 In Tomáš Souček
 Out Hugo Lloris
 In Manuel Neuer
+Out Tyrone Mings
+In Pau Torres
