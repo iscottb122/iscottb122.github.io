@@ -1405,3 +1405,8 @@ Assist Andriy Yarmolenko
 Goal Oleksandr Zinchenko
 Assist Alexander Isak
 Goal Emil Forsberg
+
+Out Manuel Neuer
+In Kasper Schmeichel
+Out Robin Gosens
+In Thomas Vermaelen
