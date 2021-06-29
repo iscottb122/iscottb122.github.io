@@ -1384,3 +1384,6 @@ Out Hugo Lloris
 In Manuel Neuer
 Out Tyrone Mings
 In Pau Torres
+
+Assist Luke Shaw
+Goal Raheem Sterling
