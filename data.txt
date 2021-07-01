@@ -1417,3 +1417,5 @@ Out Eden Hazard
 In Mikkel Damsgaard
 Out Emil Forsberg
 In Gerard Moreno
+Out Gerard Moreno
+In Yussuf Poulsen
