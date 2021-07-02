@@ -1419,3 +1419,7 @@ Out Emil Forsberg
 In Gerard Moreno
 Out Gerard Moreno
 In Yussuf Poulsen
+Out Francesco Acerbi
+In Eric García
+
+Transfer
