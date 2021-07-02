@@ -1480,3 +1480,5 @@ Out Thomas Vermaelen
 In Emerson
 Out Matteo Pessina
 In Patrik Schick
+Out Leonardo Spinazzola
+In Bryan Cristante
