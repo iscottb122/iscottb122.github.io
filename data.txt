@@ -128,7 +128,7 @@ Player MF Youri Tielemans
 Player FW Romelu Lukaku
 Player MF Eden Hazard
 Player MF Yannick Carrasco
-Player GK Simon Mignolet
+Player GK Thomas Kaminski
 Player GK Matz Sels
 Player FW Dries Mertens
 Player DF Thomas Meunier
