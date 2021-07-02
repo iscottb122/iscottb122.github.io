@@ -1426,3 +1426,6 @@ Transfer
 
 Assist Koke
 Goal Jordi Alba
+
+Out Xherdan Shaqiri
+In Tyrone Mings
