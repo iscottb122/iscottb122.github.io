@@ -1488,3 +1488,7 @@ Out Romelu Lukaku
 In Pablo Sarabia
 Out Thibaut Courtois
 In Salvatore Sirigu
+Out Thomas Meunier
+In Francesco Acerbi
+Out Toby Alderweireld
+In Oleksandr Zinchenko
