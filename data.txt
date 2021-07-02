@@ -1482,3 +1482,9 @@ Out Matteo Pessina
 In Patrik Schick
 Out Leonardo Spinazzola
 In Bryan Cristante
+Out Kevin De Bruyne
+In Matteo Pessina
+Out Romelu Lukaku
+In Pablo Sarabia
+Out Thibaut Courtois
+In Salvatore Sirigu
