@@ -1519,3 +1519,9 @@ Assist Luke Shaw
 Goal Harry Kane
 Assist Mason Mount
 Goal Jordan Henderson
+CS Jordan Pickford
+CS Kyle Walker
+CS Luke Shaw
+CS John Stones
+CS Harry Maguire
+CS Kieran Trippier
