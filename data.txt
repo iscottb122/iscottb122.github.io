@@ -1517,3 +1517,5 @@ Assist Luke Shaw
 Goal Harry Maguire
 Assist Luke Shaw
 Goal Harry Kane
+Assist Mason Mount
+Goal Jordan Henderson
