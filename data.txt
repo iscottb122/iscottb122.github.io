@@ -1498,3 +1498,5 @@ Goal Thomas Delaney
 
 Out Tomáš Souček
 In Jadon Sancho
+Out Oleksandr Zinchenko
+In Jens Stryger Larsen
