@@ -1497,6 +1497,8 @@ Assist Jens Stryger Larsen
 Goal Thomas Delaney
 Assist Joakim Mæhle
 Goal Kasper Dolberg
+Assist Vladimír Coufal
+Goal Patrik Schick
 
 Out Tomáš Souček
 In Jadon Sancho
@@ -1504,3 +1506,7 @@ Out Oleksandr Zinchenko
 In Jens Stryger Larsen
 Out Patrik Schick
 In Kasper Dolberg
+Out Martin Braithwaite
+In Patrik Schick
+Out Yussuf Poulsen
+In Martin Braithwaite
