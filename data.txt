@@ -1506,7 +1506,3 @@ Out Oleksandr Zinchenko
 In Jens Stryger Larsen
 Out Patrik Schick
 In Kasper Dolberg
-Out Martin Braithwaite
-In Patrik Schick
-Out Yussuf Poulsen
-In Martin Braithwaite
