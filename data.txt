@@ -1502,3 +1502,5 @@ Out Tomáš Souček
 In Jadon Sancho
 Out Oleksandr Zinchenko
 In Jens Stryger Larsen
+Out Patrik Schick
+In Kasper Dolberg
