@@ -1492,3 +1492,6 @@ Out Thomas Meunier
 In Francesco Acerbi
 Out Toby Alderweireld
 In Oleksandr Zinchenko
+
+Out Tomáš Souček
+In Jadon Sancho
