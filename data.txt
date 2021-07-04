@@ -1525,3 +1525,6 @@ CS Luke Shaw
 CS John Stones
 CS Harry Maguire
 CS Kieran Trippier
+
+Out Martin Braithwaite
+In Alessandro Bastoni
