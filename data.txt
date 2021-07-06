@@ -1530,6 +1530,8 @@ Out Martin Braithwaite
 In Alessandro Bastoni
 
 Goal Federico Chiesa
+Assist Dani Olmo
+Goal Álvaro Morata
 
 Out Mikel Oyarzabal
 In Rafael Tolói
@@ -1537,3 +1539,9 @@ Out Álvaro Morata
 In Andrea Belotti
 Out Marcus Rashford
 In Álvaro Morata
+Out Álvaro Morata
+In Marcus Rashford
+Out Marcus Rashford
+In Álvaro Morata
+Out Rafael Tolói
+In Mikel Oyarzabal
