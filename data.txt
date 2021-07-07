@@ -1580,3 +1580,5 @@ Out Pablo Sarabia
 In Alessandro Florenzi
 Out Pau Torres
 In Thomas Delaney
+Out Unai Simón
+In Aaron Ramsdale
