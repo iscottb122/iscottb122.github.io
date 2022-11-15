@@ -898,3 +898,6 @@ Player GK Sergio Rochet
 Player MF Agustín Canobbio
 Player MF Manuel Ugarte
 Player DF José Luis Rodríguez
+
+Draft Harry Kane
+Draft Kylian Mbappé
