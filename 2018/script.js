@@ -181,7 +181,7 @@ function fromManager(manager) {
 function fromPerson(person) {
     var span = document.createElement("span");
     var flag = document.createElement("img");
-    flag.src = "flags/" + person.country + ".PNG";
+    flag.src = "flags/" + person.country + ".webp";
     span.appendChild(flag);
     span.appendChild(document.createTextNode("\u00A0"));
     span.appendChild(document.createTextNode("\u00A0"));
