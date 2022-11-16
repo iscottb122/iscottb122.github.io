@@ -224,7 +224,7 @@ Player GK Adam Davies
 Player MF Sorba Thomas
 Player MF Dylan Levitt
 Player DF Ben Cabango
-Player DF Rubin Colwill
+Player MF Rubin Colwill
 Player MF Matthew Smith
 
 Country ARG
@@ -313,7 +313,7 @@ Player MF Michał Skóraś
 
 Country KSA
 Player GK Mohammed Al-Rubaie
-Player DF Sultan Al-Ghanam
+Player DF Sultan Al-Ghannam
 Player DF Abdullah Madu
 Player DF Abdulelah Al-Amri
 Player DF Ali Al-Bulaihi
@@ -328,7 +328,7 @@ Player DF Yasser Al-Shahrani
 Player MF Abdullah Otayf
 Player MF Ali Al-Hassan
 Player MF Sami Al-Najei
-Player DF Hassan Tambakti
+Player DF Hassan Al-Tambakti
 Player MF Nawaf Al-Abed
 Player FW Hattan Bahebri
 Player FW Abdulrahman Al-Aboud
@@ -407,7 +407,7 @@ Player MF Aurélien Tchouaméni
 Player FW Olivier Giroud
 Player FW Kylian Mbappé
 Player FW Ousmane Dembélé
-Player FW Christopher Nkunku
+Player FW Randal Kolo Muani
 Player DF Youssouf Fofana
 Player MF Adrien Rabiot
 Player MF Jordan Veretout
