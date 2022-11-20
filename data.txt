@@ -964,3 +964,15 @@ Draft Jordan Pickford
 Draft Pau Torres
 Draft Thibaut Courtois
 Draft David Raum
+
+Out Thomas Müller
+In Steven Berghuis
+Out Karim Benzema
+In Robert Lewandowski
+
+Transfer
+
+Out Robert Lewandowski
+In Karim Benzema
+Out Kai Havertz
+In Robert Lewandowski
