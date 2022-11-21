@@ -995,3 +995,7 @@ Assist Harry Maguire
 Goal Bukayo Saka
 Assist Harry Kane
 Goal Raheem Sterling
+Assist Raheem Sterling
+Goal Bukayo Saka
+Assist Ali Gholizadeh
+Goal Mehdi Taremi
