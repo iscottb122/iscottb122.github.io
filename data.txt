@@ -1004,3 +1004,16 @@ Goal Marcus Rashford
 Assist Callum Wilson
 Goal Jack Grealish
 Goal Mehdi Taremi
+
+Assist Frenkie de Jong
+Goal Cody Gakpo
+Goal Davy Klaassen
+CS Andries Noppert
+CS Matthijs de Ligt
+CS Virgil van Dijk
+CS Nathan Aké
+CS Daley Blind
+CS Denzel Dumfries
+
+Out Steven Berghuis
+In Thomas Müller
