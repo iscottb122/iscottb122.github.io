@@ -1071,3 +1071,8 @@ Assist Ousmane Dembélé
 Goal Kylian Mbappé
 Assist Kylian Mbappé
 Goal Olivier Giroud
+
+Out Robert Lewandowski
+In Bukayo Saka
+Out Raheem Sterling
+In Robert Lewandowski
