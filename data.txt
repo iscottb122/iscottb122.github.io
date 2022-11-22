@@ -89,32 +89,32 @@ Player MF Jassem Gaber
 Player MF Mostafa Meshaal
 
 Country SEN
-Player GK Édouard Mendy
-Player DF Ismail Jakobs
+Player GK Seny Dieng
+Player DF Formose Mendy
 Player DF Kalidou Koulibaly
-Player DF Abdou Diallo
+Player DF Pape Abou Cissé
 Player MF Idrissa Gueye
 Player MF Nampalys Mendy
-Player DF Youssouf Sabaly
+Player FW Nicolas Jackson
 Player DF Cheikhou Kouyaté
-Player FW Iliman Ndiaye
-Player FW Sadio Mané
-Player DF Formose Mendy
-Player DF Pape Abou Cissé
-Player MF Pape Gueye
-Player DF Moustapha Name
-Player MF Krépin Diatta
+Player FW Boulaye Dia
+Player DF Moussa N'Diaye
 Player MF Pathé Ciss
+Player DF Fodé Ballo-Touré
+Player FW Iliman Ndiaye
+Player DF Ismail Jakobs
+Player MF Krépin Diatta
+Player GK Édouard Mendy
 Player MF Pape Matar Sarr
 Player FW Ismaïla Sarr
 Player FW Famara Diédhiou
 Player FW Bamba Dieng
-Player FW Boulaye Dia
-Player DF Fodé Ballo-Touré
-Player GK Seny Dieng
-Player MF Mamadou Loum
-Player FW Nicolas Jackson
+Player DF Youssouf Sabaly
+Player DF Abdou Diallo
 Player GK Alfred Gomis
+Player DF Moustapha Name
+Player MF Mamadou Loum
+Player MF Pape Gueye
 
 Country ENG
 Player GK Jordan Pickford
@@ -242,8 +242,8 @@ Player FW Ángel Di María
 Player GK Gerónimo Rulli
 Player DF Cristian Romero
 Player MF Exequiel Palacios
-Player FW Nicolás González
-Player FW Joaquín Correa
+Player FW Ángel Correa
+Player MF Thiago Almada
 Player MF Papu Gómez
 Player MF Guido Rodríguez
 Player DF Nicolás Otamendi
@@ -345,7 +345,7 @@ Player DF Miloš Degenek
 Player DF Nathaniel Atkinson
 Player DF Kye Rowles
 Player DF Fran Karačić
-Player FW Martin Boyle
+Player FW Marco Tilio
 Player FW Mathew Leckie
 Player DF Bailey Wright
 Player FW Jamie Maclaren
@@ -408,7 +408,7 @@ Player FW Olivier Giroud
 Player FW Kylian Mbappé
 Player FW Ousmane Dembélé
 Player FW Randal Kolo Muani
-Player DF Youssouf Fofana
+Player MF Youssouf Fofana
 Player MF Adrien Rabiot
 Player MF Jordan Veretout
 Player GK Steve Mandanda
@@ -549,7 +549,7 @@ Player FW Marco Asensio
 Player FW Ferran Torres
 Player FW Nico Williams
 Player GK David Raya
-Player DF José Gayà
+Player DF Alejandro Balde
 Player DF Hugo Guillamón
 Player MF Rodri
 Player FW Yeremy Pino
