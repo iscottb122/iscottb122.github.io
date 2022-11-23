@@ -1076,3 +1076,32 @@ Out Robert Lewandowski
 In Bukayo Saka
 Out Raheem Sterling
 In Robert Lewandowski
+Out Benjamin Pavard
+In Adrien Rabiot
+
+CS Yassine Bounou
+CS Achraf Hakimi
+CS Noussair Mazraoui
+CS Nayef Aguerd
+CS Romain Saïss
+CS Yahia Attiyat Allah
+CS Dominik Livaković
+CS Dejan Lovren
+CS Borna Sosa
+CS Joško Gvardiol
+CS Josip Juranović
+
+Out Bukayo Saka
+In Kai Havertz
+
+Goal İlkay Gündoğan
+Goal Ritsu Dōan
+Assist Ko Itakura
+Goal Takuma Asano
+
+Out Thomas Müller
+In İlkay Gündoğan
+Out Christian Eriksen
+In Diogo Dalot
+Out Kai Havertz
+In Olivier Giroud
