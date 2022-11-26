@@ -1263,3 +1263,31 @@ Assist Joachim Andersen
 Goal Andreas Christensen
 Assist Antoine Griezmann
 Goal Kylian Mbappé
+
+Assist Ángel Di María
+Goal Lionel Messi
+Assist Lionel Messi
+Goal Enzo Fernández
+CS Emiliano Martínez
+CS Gonzalo Montiel
+CS Cristian Romero
+CS Nicolás Otamendi
+CS Lisandro Martínez
+CS Nahuel Molina
+
+Out Lautaro Martínez
+In Cody Gakpo
+Out Nicolás Tagliafico
+In Nathan Aké
+Out Bernardo Silva
+In Lautaro Martínez
+Out Harry Kane
+In Bukayo Saka
+Out Kevin De Bruyne
+In Vitinha
+Out İlkay Gündoğan
+In Kevin De Bruyne
+Out Vitinha
+In İlkay Gündoğan
+Out Lautaro Martínez
+In Harry Kane
