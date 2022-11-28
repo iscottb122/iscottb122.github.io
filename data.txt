@@ -1330,3 +1330,47 @@ Assist Jordi Alba
 Goal Álvaro Morata
 Assist Jamal Musiala
 Goal Niclas Füllkrug
+
+Assist Nicolas Nkoulou
+Goal Jean-Charles Castelletto
+Assist Dušan Tadić
+Goal Strahinja Pavlović
+Assist Andrija Živković
+Goal Sergej Milinković-Savić
+Assist Andrija Živković
+Goal Aleksandar Mitrović
+Assist Jean-Charles Castelletto
+Goal Vincent Aboubakar
+Assist Vincent Aboubakar
+Goal Eric Maxim Choupo-Moting
+
+Goal Mohammed Salisu
+Assist Jordan Ayew
+Goal Mohammed Kudus
+Assist Lee Kang-in
+Goal Cho Gue-sung
+Assist Kim Jin-su
+Goal Cho Gue-sung
+Assist Iñaki Williams
+Goal Mohammed Kudus
+
+Assist Rodrygo
+Goal Casemiro
+CS Alisson
+CS Thiago Silva
+CS Marquinhos
+CS Alex Sandro
+CS Éder Militão
+CS Alex Telles
+
+Out Nathan Aké
+In Daley Blind
+Out Joakim Mæhle
+In Raphaël Varane
+Out Thibaut Courtois
+In Unai Simón
+Out Danilo
+In Éder Militão
+
+Out Otávio
+In Casemiro
