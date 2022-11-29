@@ -1388,3 +1388,18 @@ Out Timothy Castagne
 In Davy Klaassen
 Out Nahuel Molina
 In Antonio Rüdiger
+Out Thiago Silva
+In Joakim Mæhle
+Out João Cancelo
+In Nathan Aké
+Out Ángel Di María
+In Dani Olmo
+
+Transfer
+
+Out Joakim Mæhle
+In Thiago Silva
+Out Nathan Aké
+In João Cancelo
+Out Dani Olmo
+In Lautaro Martínez
