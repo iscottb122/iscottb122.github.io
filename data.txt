@@ -1474,10 +1474,18 @@ Assist Nahuel Molina
 Goal Alexis Mac Allister
 Assist Enzo Fernández
 Goal Julián Álvarez
+CS Emiliano Martínez
+CS Nicolás Tagliafico
+CS Germán Pezzella
+CS Cristian Romero
+CS Nicolás Otamendi
+CS Nahuel Molina
 
 Assist César Montes
 Goal Henry Martín
 Goal Luis Chávez
+Assist Hattan Bahebri
+Goal Salem Al-Dawsari
 
 Out Frenkie de Jong
 In Enzo Fernández
