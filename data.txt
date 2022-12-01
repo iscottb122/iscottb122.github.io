@@ -1491,3 +1491,21 @@ Out Frenkie de Jong
 In Enzo Fernández
 Out Harry Maguire
 In Nahuel Molina
+
+Goal Hakim Ziyech
+Assist Achraf Hakimi
+Goal Youssef En-Nesyri
+OG Nayef Aguerd
+
+CS Dominik Livaković
+CS Dejan Lovren
+CS Borna Sosa
+CS Joško Gvardiol
+CS Josip Juranović
+CS Thibaut Courtois
+CS Toby Alderweireld
+CS Jan Vertonghen
+CS Leander Dendoncker
+
+Out Kevin De Bruyne
+In Hakim Ziyech
