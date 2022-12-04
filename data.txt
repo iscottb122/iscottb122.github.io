@@ -1610,3 +1610,8 @@ Assist Jude Bellingham
 Goal Jordan Henderson
 Assist Phil Foden
 Goal Harry Kane
+Assist Phil Foden
+Goal Bukayo Saka
+
+Out Lautaro Martínez
+In Bukayo Saka
