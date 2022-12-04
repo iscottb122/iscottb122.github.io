@@ -1600,3 +1600,8 @@ Goal Kylian Mbappé
 Assist Marcus Thuram
 Goal Kylian Mbappé
 Goal Robert Lewandowski
+
+Out Robert Lewandowski
+In Ousmane Dembélé
+Out Benjamin Pavard
+In Ousmane Dembélé
