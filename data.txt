@@ -1612,6 +1612,12 @@ Assist Phil Foden
 Goal Harry Kane
 Assist Phil Foden
 Goal Bukayo Saka
+CS Jordan Pickford
+CS Kyle Walker
+CS Luke Shaw
+CS John Stones
+CS Harry Maguire
+CS Eric Dier
 
 Out Lautaro Martínez
 In Bukayo Saka
