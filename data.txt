@@ -1646,3 +1646,6 @@ Goal Richarlison
 Assist Vinícius Júnior
 Goal Lucas Paquetá
 Goal Paik Seung-ho
+
+Out Virgil van Dijk
+In Danilo
