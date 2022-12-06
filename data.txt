@@ -1683,3 +1683,5 @@ Out Pedri
 In Jordan Henderson
 Out Jordi Alba
 In Jules Koundé
+Out Gavi
+In Alexis Mac Allister
