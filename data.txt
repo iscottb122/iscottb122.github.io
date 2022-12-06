@@ -1685,3 +1685,30 @@ Out Jordi Alba
 In Jules Koundé
 Out Gavi
 In Alexis Mac Allister
+Out Nicolás Otamendi
+In Diogo Dalot
+Out Nathan Aké
+In Nicolás Otamendi
+Out Unai Simón
+In Diogo Costa
+
+Assist João Félix
+Goal Gonçalo Ramos
+Assist Bruno Fernandes
+Goal Pepe
+Assist Diogo Dalot
+Goal Gonçalo Ramos
+Assist Gonçalo Ramos
+Goal Raphaël Guerreiro
+Goal Manuel Akanji
+Assist João Félix
+Goal Gonçalo Ramos
+Assist Raphaël Guerreiro
+Goal Rafael Leão
+
+Out Xherdan Shaqiri
+In Aurélien Tchouaméni
+Out Ángel Di María
+In Gonçalo Ramos
+Out Bukayo Saka
+In João Félix
