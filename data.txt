@@ -1727,3 +1727,31 @@ CS Marquinhos
 CS Éder Militão
 Assist Lucas Paquetá
 Goal Neymar
+Assist Mislav Oršić
+Goal Bruno Petković
+Penalty Nikola Vlašić
+Save Dominik Livaković
+Miss Rodrygo
+Penalty Lovro Majer
+Penalty Casemiro
+Penalty Luka Modrić
+Penalty Pedro
+Penalty Mislav Oršić
+Miss Marquinhos
+
+Out Thiago Silva
+In Harry Maguire
+Out Marquinhos
+In Virgil van Dijk
+Out Neymar
+In Ivan Perišić
+Out Richarlison
+In Bukayo Saka
+Out Alex Sandro
+In Borna Sosa
+Out Danilo
+In Josip Juranović
+Out Raphinha
+In Andrej Kramarić
+Out Alisson
+In Dominik Livaković
