@@ -1850,6 +1850,10 @@ In Ousmane Dembélé
 
 Assist Antoine Griezmann
 Goal Aurélien Tchouaméni
+Goal Harry Kane
+Assist Antoine Griezmann
+Goal Olivier Giroud
+Miss Harry Kane
 
 Out Rúben Dias
 In Dayot Upamecano
@@ -1857,3 +1861,11 @@ Out Bruno Fernandes
 In Raheem Sterling
 Out Cristiano Ronaldo
 In Marcus Rashford
+Out Otávio
+In Declan Rice
+Out Pepe
+In Eric Dier
+Out Jordan Pickford
+In Steve Mandanda
+Out Jordan Henderson
+In Mario Pašalić
