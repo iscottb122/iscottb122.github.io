@@ -1775,6 +1775,7 @@ Penalty Wout Weghorst
 Miss Enzo Fernández
 Penalty Luuk de Jong
 Penalty Lautaro Martínez
+Red Denzel Dumfries
 
 Out Cody Gakpo
 In Julián Álvarez
@@ -1822,3 +1823,27 @@ Out Denzel Dumfries
 In Dejan Lovren
 Out Virgil van Dijk
 In Joško Gvardiol
+
+Assist Yahia Attiyat Allah
+Goal Youssef En-Nesyri
+Red Walid Cheddira
+CS Yassine Bounou
+CS Achraf Hakimi
+CS Romain Saïss
+CS Jawad El Yamiq
+CS Achraf Dari
+CS Badr Benoun
+CS Yahia Attiyat Allah
+
+Out João Cancelo
+In Kyle Walker
+Out João Félix
+In Marcus Rashford
+Out Gonçalo Ramos
+In Youssef En-Nesyri
+Out Bruno Fernandes
+In Marcos Acuña
+Out Ousmane Dembélé
+In Bruno Fernandes
+Out Marcus Rashford
+In Ousmane Dembélé
