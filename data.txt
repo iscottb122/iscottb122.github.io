@@ -1891,3 +1891,13 @@ Out Harry Kane
 In Marko Livaja
 
 Transfer
+
+Goal Lionel Messi
+Goal Julián Álvarez
+Assist Lionel Messi
+Goal Julián Álvarez
+
+Out Borna Sosa
+In Germán Pezzella
+Out Andrej Kramarić
+In Paulo Dybala
