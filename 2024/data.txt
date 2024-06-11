@@ -232,7 +232,7 @@ Country SVN
 Player GK Jan Oblak
 Player DF Žan Karničnik
 Player DF Jure Balkovec
-Player DF David Brekalo
+Player DF Miha Blažič
 Player MF Jon Gorenc Stanković
 Player DF Jaka Bijol
 Player MF Benjamin Verbič
@@ -251,7 +251,7 @@ Player FW Žan Celar
 Player DF Petar Stojanović
 Player DF Vanja Drkušić
 Player MF Adam Gnezda Čerin
-Player DF Miha Blažič
+Player DF David Brekalo
 Player MF Nino Žugelj
 Player MF Adrian Zeljković
 Player FW Josip Iličić
@@ -388,8 +388,7 @@ Player MF Joey Veerman
 Player DF Daley Blind
 Player FW Donyell Malen
 Player FW Brian Brobbey
-Player MF Teun Koopmeiners
-Player MF Frenkie de Jong
+Player DF Ian Maatsen
 Player DF Denzel Dumfries
 Player GK Mark Flekken
 Player MF Jerdy Schouten
