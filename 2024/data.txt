@@ -29,7 +29,7 @@ Player MF İlkay Gündoğan
 Player GK Marc-André ter Stegen
 Player MF Robert Andrich
 Player DF Robin Koch
-Player MF Aleksandar Pavlović
+Player MF Emre Can
 Player FW Deniz Undav
 
 Country SCO
@@ -389,6 +389,7 @@ Player DF Daley Blind
 Player FW Donyell Malen
 Player FW Brian Brobbey
 Player DF Ian Maatsen
+Player FW Joshua Zirkzee
 Player DF Denzel Dumfries
 Player GK Mark Flekken
 Player MF Jerdy Schouten
@@ -578,15 +579,15 @@ Player DF Ahmetcan Kaplan
 Player DF Abdülkerim Bardakcı
 Player MF Salih Özcan
 Player MF İsmail Yüksek
-Player FW İrfan Kahveci
+Player MF İrfan Kahveci
 Player DF Mert Müldür
 Player FW Kenan Yıldız
 Player DF Ferdi Kadıoğlu
-Player FW Barış Alper Yılmaz
+Player MF Barış Alper Yılmaz
 Player DF Kaan Ayhan
 Player GK Uğurcan Çakır
 Player FW Semih Kılıçsoy
-Player FW Yunus Akgün
+Player MF Yunus Akgün
 Player FW Bertuğ Yıldırım
 
 Country GEO
