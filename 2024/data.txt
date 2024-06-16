@@ -43,21 +43,21 @@ Player MF John McGinn
 Player MF Callum McGregor
 Player FW Lawrence Shankland
 Player FW Ché Adams
-Player MF Ryan Christie
+Player FW Ryan Christie
 Player GK Liam Kelly
 Player DF Jack Hendry
 Player MF Billy Gilmour
 Player DF Ryan Porteous
 Player DF Liam Cooper
 Player MF Stuart Armstrong
-Player FW Lewis Morgan
+Player MF Lewis Morgan
 Player FW Tommy Conway
 Player MF Ryan Jack
 Player GK Zander Clark
 Player DF Ross McCrorie
 Player MF Kenny McLean
 Player DF Greg Taylor
-Player FW James Forrest
+Player MF James Forrest
 Player DF Scott McKenna
 
 Country HUN
@@ -99,13 +99,13 @@ Player FW Breel Embolo
 Player MF Remo Freuler
 Player FW Noah Okafor
 Player MF Granit Xhaka
-Player FW Renato Steffen
+Player MF Renato Steffen
 Player GK Yvon Mvogo
 Player DF Ricardo Rodriguez
-Player FW Steven Zuber
+Player MF Steven Zuber
 Player DF Cédric Zesiger
 Player MF Vincent Sierro
-Player FW Ruben Vargas
+Player MF Ruben Vargas
 Player FW Kwadwo Duah
 Player FW Dan Ndoye
 Player MF Michel Aebischer
@@ -162,7 +162,7 @@ Player FW Ivan Perišić
 Player MF Mario Pašalić
 Player FW Ante Budimir
 Player FW Bruno Petković
-Player MF Luka Ivanušec
+Player FW Luka Ivanušec
 Player DF Borna Sosa
 Player FW Marko Pjaca
 Player DF Domagoj Vida
@@ -197,7 +197,7 @@ Player MF Nicolò Fagioli
 Player FW Stephan El Shaarawy
 Player DF Alessandro Bastoni
 Player DF Andrea Cambiaso
-Player MF Michael Folorunsho
+Player FW Michael Folorunsho
 Player GK Alex Meret
 
 Country ALB
@@ -215,9 +215,9 @@ Player FW Armando Broja
 Player GK Elhan Kastrati
 Player DF Enea Mihaj
 Player MF Qazim Laçi
-Player FW Taulant Seferi
-Player MF Medon Berisha
-Player MF Ernest Muçi
+Player MF Taulant Seferi
+Player FW Medon Berisha
+Player FW Ernest Muçi
 Player DF Ardian Ismajli
 Player FW Mirlind Daku
 Player MF Ylber Ramadani
@@ -254,7 +254,7 @@ Player MF Adam Gnezda Čerin
 Player DF David Brekalo
 Player MF Nino Žugelj
 Player MF Adrian Zeljković
-Player FW Josip Iličić
+Player MF Josip Iličić
 
 Country DEN
 Player GK Kasper Schmeichel
@@ -280,7 +280,7 @@ Player FW Yussuf Poulsen
 Player MF Morten Hjulmand
 Player GK Frederik Rønnow
 Player MF Pierre-Emile Højbjerg
-Player FW Anders Dreyer
+Player MF Anders Dreyer
 Player DF Rasmus Kristensen
 Player FW Jacob Bruun Larsen
 
@@ -290,15 +290,15 @@ Player DF Strahinja Pavlović
 Player DF Nemanja Stojić
 Player DF Nikola Milenković
 Player MF Nemanja Maksimović
-Player DF Nemanja Gudelj
+Player MF Nemanja Gudelj
 Player FW Dušan Vlahović
 Player FW Luka Jović
 Player FW Aleksandar Mitrović
-Player MF Dušan Tadić
-Player MF Filip Kostić
+Player FW Dušan Tadić
+Player FW Filip Kostić
 Player GK Đorđe Petrović
 Player DF Miloš Veljković
-Player MF Andrija Živković
+Player FW Andrija Živković
 Player DF Srđan Babić
 Player MF Srđan Mijailović
 Player MF Ivan Ilić
@@ -333,7 +333,7 @@ Player FW Ivan Toney
 Player FW Anthony Gordon
 Player FW Ollie Watkins
 Player FW Jarrod Bowen
-Player MF Eberechi Eze
+Player FW Eberechi Eze
 Player DF Joe Gomez
 Player GK Dean Henderson
 Player MF Cole Palmer
@@ -351,7 +351,7 @@ Player FW Karol Świderski
 Player MF Jakub Moder
 Player FW Robert Lewandowski
 Player MF Piotr Zieliński
-Player MF Kamil Grosicki
+Player FW Kamil Grosicki
 Player GK Łukasz Skorupski
 Player MF Taras Romanczuk
 Player DF Jakub Kiwior
@@ -388,7 +388,7 @@ Player MF Joey Veerman
 Player DF Daley Blind
 Player FW Donyell Malen
 Player FW Brian Brobbey
-Player DF Ian Maatsen
+Player MF Ian Maatsen
 Player FW Joshua Zirkzee
 Player DF Denzel Dumfries
 Player GK Mark Flekken
@@ -412,17 +412,17 @@ Player GK Niklas Hedl
 Player GK Patrick Pentz
 Player DF Leopold Querfeld
 Player DF Philipp Lienhart
-Player DF Philipp Mwene
+Player DF Phillipp Mwene
 Player MF Florian Kainz
 Player MF Romano Schmid
 Player MF Christoph Baumgartner
 Player MF Konrad Laimer
 Player DF Flavius Daniliuc
 Player MF Matthias Seidl
-Player MF Patrick Wimmer
+Player FW Patrick Wimmer
 Player FW Andreas Weimann
 Player FW Maximilian Entrup
-Player MF Marco Grüll
+Player FW Marco Grüll
 
 Country FRA
 Player GK Brice Samba
@@ -457,7 +457,7 @@ Player DF Zeno Debast
 Player DF Arthur Theate
 Player DF Wout Faes
 Player DF Jan Vertonghen
-Player DF Axel Witsel
+Player MF Axel Witsel
 Player MF Kevin De Bruyne
 Player MF Youri Tielemans
 Player FW Leandro Trossard
@@ -485,7 +485,7 @@ Player DF Denis Vavro
 Player DF Adam Obert
 Player MF Tomáš Rigo
 Player DF Norbert Gyömbér
-Player MF Tomáš Suslov
+Player FW Tomáš Suslov
 Player MF Ondrej Duda
 Player FW Róbert Boženík
 Player FW Ľubomír Tupta
@@ -502,7 +502,7 @@ Player FW Dávid Ďuriš
 Player MF Matúš Bero
 Player MF Stanislav Lobotka
 Player GK Henrich Ravas
-Player MF Leo Sauer
+Player FW Leo Sauer
 Player DF Sebastian Kóša
 Player FW Ivan Schranz
 
@@ -519,14 +519,14 @@ Player FW George Pușcaș
 Player MF Ianis Hagi
 Player DF Nicușor Bancu
 Player GK Horațiu Moldovan
-Player MF Valentin Mihăilă
+Player FW Valentin Mihăilă
 Player MF Darius Olaru
 Player DF Andrei Burcă
 Player GK Ștefan Târnovanu
-Player MF Florinel Coman
+Player FW Florinel Coman
 Player MF Răzvan Marin
 Player FW Denis Drăguș
-Player MF Dennis Man
+Player FW Dennis Man
 Player MF Nicolae Stanciu
 Player DF Vasile Mogoș
 Player MF Deian Sorescu
@@ -541,10 +541,10 @@ Player DF Oleksandr Svatok
 Player DF Maksym Taloverov
 Player MF Serhiy Sydorchuk
 Player MF Taras Stepanenko
-Player FW Andriy Yarmolenko
+Player MF Andriy Yarmolenko
 Player MF Ruslan Malinovskyi
 Player FW Roman Yaremchuk
-Player MF Mykhaylo Mudryk
+Player FW Mykhaylo Mudryk
 Player FW Artem Dovbyk
 Player GK Anatoliy Trubin
 Player DF Illya Zabarnyi
@@ -554,7 +554,7 @@ Player DF Vitaliy Mykolenko
 Player MF Oleksandr Zinchenko
 Player MF Volodymyr Brazhko
 Player MF Mykola Shaparenko
-Player FW Oleksandr Zubkov
+Player MF Oleksandr Zubkov
 Player DF Valeriy Bondar
 Player DF Mykola Matviyenko
 Player GK Andriy Lunin
@@ -583,8 +583,8 @@ Player MF İrfan Kahveci
 Player DF Mert Müldür
 Player FW Kenan Yıldız
 Player DF Ferdi Kadıoğlu
-Player MF Barış Alper Yılmaz
-Player DF Kaan Ayhan
+Player FW Barış Alper Yılmaz
+Player MF Kaan Ayhan
 Player GK Uğurcan Çakır
 Player FW Semih Kılıçsoy
 Player MF Yunus Akgün
@@ -649,11 +649,12 @@ Player FW Francisco Conceição
 Country CZE
 Player GK Jindřich Staněk
 Player DF David Zima
-Player DF Tomáš Holeš
+Player MF Tomáš Holeš
 Player DF Robin Hranáč
 Player DF Vladimír Coufal
 Player DF Martin Vitík
 Player MF Antonín Barák
+Player MF Petr Ševčík
 Player FW Adam Hložek
 Player FW Patrik Schick
 Player FW Jan Kuchta
