@@ -803,3 +803,6 @@ CS Kyle Walker
 CS John Stones
 CS Marc Guéhi
 CS Kieran Trippier
+
+Out Phil Foden
+In Bukayo Saka
