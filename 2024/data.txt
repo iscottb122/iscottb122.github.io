@@ -828,3 +828,19 @@ CS Denis Vavro
 CS Adam Obert
 CS Milan Škriniar
 CS Dávid Hancko
+
+Out Olivier Giroud
+In Niclas Füllkrug
+Out Niclas Füllkrug
+In Olivier Giroud
+
+Assist Kylian Mbappé
+OG Wöber
+CS Mike Maignan
+CS Dayot Upamecano
+CS Jules Koundé
+CS William Saliba
+CS Théo Hernandez
+
+Out Olivier Giroud
+In Niclas Füllkrug
