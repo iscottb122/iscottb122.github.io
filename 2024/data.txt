@@ -844,3 +844,9 @@ CS Théo Hernandez
 
 Out Olivier Giroud
 In Niclas Füllkrug
+Out Niclas Füllkrug
+In Olivier Giroud
+
+Goal Mert Müldür
+Assist Giorgi Kochorashvili
+Goal Georges Mikautadze
