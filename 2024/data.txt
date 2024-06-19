@@ -844,6 +844,8 @@ CS Théo Hernandez
 
 Out Olivier Giroud
 In Niclas Füllkrug
+Out Toni Kroos
+In William Saliba
 Out Niclas Füllkrug
 In Olivier Giroud
 
@@ -860,3 +862,29 @@ Goal Francisco Conceição
 
 Out Heorhiy Sudakov
 In Lovro Majer
+Out William Saliba
+In Diogo Dalot
+Out Mike Maignan
+In Koen Casteels
+Out Dani Carvajal
+In Kieran Trippier
+Out Dominik Szoboszlai
+In Mateo Kovačić
+Out Kylian Mbappé
+In Andrej Kramarić
+
+Transfer
+
+Out Diogo Dalot
+In William Saliba
+Out Koen Casteels
+In Mike Maignan
+Out Kieran Trippier
+In Dani Carvajal
+Out Mateo Kovačić
+In Dominik Szoboszlai
+Out Andrej Kramarić
+In Kylian Mbappé
+
+Assist Jasir Asani
+Goal Qazim Laçi
