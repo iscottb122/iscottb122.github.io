@@ -918,3 +918,6 @@ Goal Luka Jović
 Goal Harry Kane
 Assist Victor Kristiansen
 Goal Morten Hjulmand
+
+Out Bukayo Saka
+In Nico Williams
