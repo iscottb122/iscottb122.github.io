@@ -928,3 +928,10 @@ CS Dani Carvajal
 CS Robin Le Normand
 CS Aymeric Laporte
 CS Marc Cucurella
+
+Assist Lukáš Haraslín
+Goal Ivan Schranz
+Assist Oleksandr Zinchenko
+Goal Mykola Shaparenko
+Assist Mykola Shaparenko
+Goal Roman Yaremchuk
