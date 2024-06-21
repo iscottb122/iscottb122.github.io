@@ -939,3 +939,6 @@ Goal Roman Yaremchuk
 Assist Phillipp Mwene
 Goal Gernot Trauner
 Goal Krzysztof Piątek
+Assist Alexander Prass
+Goal Christoph Baumgartner
+Goal Marko Arnautović
