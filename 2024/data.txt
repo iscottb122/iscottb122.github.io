@@ -935,3 +935,6 @@ Assist Oleksandr Zinchenko
 Goal Mykola Shaparenko
 Assist Mykola Shaparenko
 Goal Roman Yaremchuk
+
+Assist Phillipp Mwene
+Goal Gernot Trauner
