@@ -942,3 +942,6 @@ Goal Krzysztof Piątek
 Assist Alexander Prass
 Goal Christoph Baumgartner
 Goal Marko Arnautović
+
+Out Olivier Giroud
+In Lamine Yamal
