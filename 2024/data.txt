@@ -984,3 +984,9 @@ Assist Romelu Lukaku
 Goal Youri Tielemans
 Assist Koen Casteels
 Goal Kevin De Bruyne
+CS Koen Casteels
+CS Zeno Debast
+CS Arthur Theate
+CS Wout Faes
+CS Jan Vertonghen
+CS Timothy Castagne
