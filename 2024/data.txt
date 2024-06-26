@@ -1116,3 +1116,8 @@ Goal Tomáš Souček
 Assist Orkun Kökçü
 Goal Cenk Tosun
 Red Tomáš Chorý
+
+Out Dayot Upamecano
+In Marc Guéhi
+Out Marc Guéhi
+In Dayot Upamecano
