@@ -1076,7 +1076,6 @@ Out Denzel Dumfries
 In Kieran Trippier
 Out Aleksandar Mitrović
 In Cody Gakpo
-
 Out Christian Eriksen
 In Christoph Baumgartner
 
@@ -1102,7 +1101,18 @@ In Marcus Thuram
 Assist Georges Mikautadze
 Goal Khvicha Kvaratskhelia
 Goal Georges Mikautadze
+CS Giorgi Mamardashvili
+CS Otar Kakabadze
+CS Lasha Dvali
+CS Guram Kashia
+CS Solomon Kvirkvelia
+CS Luka Lochoshvili
+CS Giorgi Gvelesiani
 
 Red Antonín Barák
 Assist İsmail Yüksek
 Goal Hakan Çalhanoğlu
+Goal Tomáš Souček
+Assist Orkun Kökçü
+Goal Cenk Tosun
+Red Tomáš Chorý
