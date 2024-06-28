@@ -1123,3 +1123,9 @@ Out Marc Guéhi
 In Dayot Upamecano
 Out Timothy Castagne
 In Marc Guéhi
+Out William Saliba
+In Nuno Mendes
+Out Mike Maignan
+In Bart Verbruggen
+
+Transfer
