@@ -1143,3 +1143,5 @@ Out Cole Palmer
 In Marcel Sabitzer
 Out Lorenzo Pellegrini
 In Cole Palmer
+Out Alessandro Bastoni
+In Vitinha
