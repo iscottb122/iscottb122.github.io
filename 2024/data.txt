@@ -1134,6 +1134,11 @@ Assist Ruben Vargas
 Goal Remo Freuler
 Assist Michel Aebischer
 Goal Ruben Vargas
+CS Yann Sommer
+CS Leonidas Stergiou
+CS Manuel Akanji
+CS Ricardo Rodriguez
+CS Fabian Schär
 
 Out Federico Dimarco
 In Aymeric Laporte
