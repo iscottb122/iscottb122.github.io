@@ -1145,3 +1145,5 @@ Out Lorenzo Pellegrini
 In Cole Palmer
 Out Alessandro Bastoni
 In Vitinha
+Out Bart Verbruggen
+In Yann Sommer
