@@ -1261,3 +1261,5 @@ Goal Michael Gregoritsch
 
 Out Maximilian Mittelstädt
 In Stefan de Vrij
+Out Christoph Baumgartner
+In Cole Palmer
