@@ -1265,3 +1265,5 @@ Out Christoph Baumgartner
 In Cole Palmer
 Out Marcel Sabitzer
 In Michel Aebischer
+Out N'Golo Kanté
+In Arda Güler
