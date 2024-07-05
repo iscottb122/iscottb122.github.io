@@ -1314,3 +1314,10 @@ Out Kai Havertz
 In Donyell Malen
 Out Joshua Kimmich
 In Pepe
+
+Out Antoine Griezmann
+In Ferran Torres
+Out Rafael Leão
+In Antoine Griezmann
+Out Ferran Torres
+In Rafael Leão
