@@ -1280,3 +1280,5 @@ Out Wout Weghorst
 In Dani Olmo
 Out Antonio Rüdiger
 In Jonathan Tah
+Out Robin Le Normand
+In Marc Guéhi
