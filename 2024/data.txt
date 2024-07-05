@@ -1278,3 +1278,5 @@ Transfer
 
 Out Wout Weghorst
 In Dani Olmo
+Out Antonio Rüdiger
+In Jonathan Tah
