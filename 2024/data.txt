@@ -1293,3 +1293,7 @@ Out Jonathan Tah
 In Joshua Kimmich
 Out Nacho
 In David Raum
+Out Dani Carvajal
+In Pepe
+Out Pepe
+In Nacho
