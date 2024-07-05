@@ -1278,6 +1278,8 @@ Transfer
 
 Assist Lamine Yamal
 Goal Dani Olmo
+Assist Joshua Kimmich
+Goal Florian Wirtz
 
 Out Wout Weghorst
 In Dani Olmo
@@ -1289,3 +1291,5 @@ Out Joshua Kimmich
 In Nacho
 Out Jonathan Tah
 In Joshua Kimmich
+Out Nacho
+In David Raum
