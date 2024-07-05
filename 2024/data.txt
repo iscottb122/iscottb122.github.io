@@ -1285,3 +1285,5 @@ Out Antonio Rüdiger
 In Jonathan Tah
 Out Robin Le Normand
 In Marc Guéhi
+Out Joshua Kimmich
+In Nacho
