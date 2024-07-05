@@ -1287,3 +1287,5 @@ Out Robin Le Normand
 In Marc Guéhi
 Out Joshua Kimmich
 In Nacho
+Out Jonathan Tah
+In Joshua Kimmich
