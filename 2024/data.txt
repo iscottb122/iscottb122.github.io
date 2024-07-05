@@ -1280,6 +1280,9 @@ Assist Lamine Yamal
 Goal Dani Olmo
 Assist Joshua Kimmich
 Goal Florian Wirtz
+Assist Dani Olmo
+Goal Mikel Merino
+Red Dani Carvajal
 
 Out Wout Weghorst
 In Dani Olmo
@@ -1299,3 +1302,13 @@ Out Pepe
 In Nacho
 Out Nacho
 In Jesús Navas
+Out David Raum
+In Nacho
+Out Jamal Musiala
+In Tijjani Reijnders
+Out Florian Wirtz
+In Xherdan Shaqiri
+Out İlkay Gündoğan
+In Hakan Çalhanoğlu
+Out Kai Havertz
+In Donyell Malen
