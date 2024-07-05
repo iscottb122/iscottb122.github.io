@@ -1312,3 +1312,5 @@ Out İlkay Gündoğan
 In Hakan Çalhanoğlu
 Out Kai Havertz
 In Donyell Malen
+Out Joshua Kimmich
+In Pepe
