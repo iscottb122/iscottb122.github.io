@@ -1367,6 +1367,7 @@ In Cenk Tosun
 Out Merih Demiral
 In Dani Carvajal
 
+Assist Dan Ndoye
 Goal Breel Embolo
 Assist Declan Rice
 Goal Bukayo Saka
@@ -1403,5 +1404,11 @@ Out Jerdy Schouten
 In Kobbie Mainoo
 Out Declan Rice
 In Jerdy Schouten
+
+Assist Arda Güler
+Goal Samet Akaydin
+
 Out Pedri
 In Declan Rice
+Out Donyell Malen
+In Phil Foden
