@@ -1397,3 +1397,5 @@ Out Trent Alexander-Arnold
 In Mikel Merino
 Out Mikel Merino
 In Jerdy Schouten
+Out Kobbie Mainoo
+In Mikel Merino
