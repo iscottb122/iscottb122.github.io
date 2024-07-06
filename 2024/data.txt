@@ -1403,3 +1403,5 @@ Out Jerdy Schouten
 In Kobbie Mainoo
 Out Declan Rice
 In Jerdy Schouten
+Out Pedri
+In Declan Rice
