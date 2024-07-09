@@ -1437,3 +1437,6 @@ Assist Kylian Mbappé
 Goal Randal Kolo Muani
 Goal Lamine Yamal
 Goal Dani Olmo
+
+Out Jesús Navas
+In Daniel Vivian
