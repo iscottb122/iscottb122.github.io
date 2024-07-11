@@ -1488,3 +1488,7 @@ Out Wout Weghorst
 In Joselu
 Out Donyell Malen
 In Pedri
+Out Bart Verbruggen
+In Aaron Ramsdale
+Out Jeremie Frimpong
+In Jesús Navas
