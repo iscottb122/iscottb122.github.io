@@ -1345,3 +1345,6 @@ Player DF Michael Amir Murillo
 Player FW Azarias Londoño
 Player DF Roderick Miller
 Player DF Jorge Gutiérrez
+
+Draft Kylian Mbappé
+Draft Harry Kane
