@@ -532,7 +532,7 @@ Player GK Alexander Nübel
 Player DF David Raum
 Player MF Felix Nmecha
 Player DF Malick Thiaw
-Player MF Lennart Karl
+Player MF Assan Ouédraogo
 Player FW Deniz Undav
 
 Country ci
@@ -873,7 +873,7 @@ Player FW Borja Iglesias
 
 Country uy
 Player GK Sergio Rochet
-Player DF José María Giménez
+Player DF José Giménez
 Player DF Sebastián Cáceres
 Player DF Ronald Araújo
 Player MF Manuel Ugarte
@@ -1112,7 +1112,6 @@ Player MF Rajaei Ayed
 Player MF Ibrahim Sadeh
 Player DF Mo Abualnadi
 Player DF Salim Obaid
-Player FW Ibrahim Sabra
 Player DF Saed Al-Rosan
 Player MF Mohannad Abu Taha
 Player MF Nizar Al-Rashdan
