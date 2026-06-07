@@ -16,17 +16,17 @@ Player FW Marwan Mohsen
 Player FW Mohamed Salah
 Player FW Kahraba
 Player DF Ayman Ashraf
-Player DF Mohamed Abdel-Shafy
+Player DF Mohamed Abdel Shafy
 Player FW Ramadan Sobhi
 Player DF Mahmoud Hamdy
 Player GK Sherif Ekramy
 Player MF Mohamed Elneny
 Player FW Shikabala
-Player MF Abdallah Said
+Player MF Abdallah El Said
 Player DF Saad Samir
 Player MF Trézéguet
 Player FW Amr Warda
-Player GK Mohamed El-Shenawy
+Player GK Mohamed El Shenawy
 Country ru
 Player GK Igor Akinfeev
 Player DF Mário Fernandes
@@ -80,7 +80,7 @@ Player GK Fernando Muslera
 Player DF José Giménez
 Player DF Diego Godín
 Player DF Guillermo Varela
-Player MF Carlos Andrés Sánchez
+Player MF Carlos Sánchez Arcosa
 Player MF Rodrigo Bentancur
 Player MF Cristian Rodríguez
 Player MF Nahitan Nández
@@ -264,7 +264,7 @@ Player DF Adil Rami
 Player FW Nabil Fekir
 Player DF Djibril Sidibé
 Player FW Florian Thauvin
-Player DF Lucas Hernández
+Player DF Lucas Hernandez
 Player DF Benjamin Mendy
 Player GK Alphonse Areola
 Country pe
@@ -371,7 +371,7 @@ Player MF Wilfred Ndidi
 Player DF William Troost-Ekong
 Player DF Leon Balogun
 Player FW Ahmed Musa
-Player MF Oghenekaro Etebo
+Player MF Peter Etebo
 Player FW Odion Ighalo
 Player MF John Obi Mikel
 Player FW Victor Moses
@@ -413,7 +413,7 @@ Player DF Fagner
 Player GK Ederson
 Country cr
 Player GK Keylor Navas
-Player DF Johnny Acosta
+Player DF Jhonny Acosta
 Player DF Giancarlo González
 Player DF Ian Smith
 Player MF Celso Borges
@@ -433,7 +433,7 @@ Player GK Patrick Pemberton
 Player DF Kendall Waston
 Player MF David Guzmán
 Player FW Marco Ureña
-Player DF Rónald Matarrita
+Player DF Kenner Gutiérrez
 Player GK Leonel Moreira
 Country rs
 Player GK Vladimir Stojković
@@ -468,7 +468,7 @@ Player DF Manuel Akanji
 Player DF Michael Lang
 Player FW Breel Embolo
 Player MF Remo Freuler
-Player FW Haris Seferović
+Player FW Haris Seferovic
 Player MF Granit Xhaka
 Player MF Valon Behrami
 Player GK Yvon Mvogo
@@ -512,7 +512,7 @@ Player GK José de Jesús Corona
 Player DF Hugo Ayala
 Player DF Carlos Salcedo
 Player DF Rafael Márquez
-Player DF Diego Reyes
+Player MF Érick Gutiérrez
 Player MF Jonathan dos Santos
 Player MF Miguel Layún
 Player FW Marco Fabián
@@ -554,7 +554,7 @@ Player DF Kim Young-gwon
 Player DF Jang Hyun-soo
 Player GK Kim Jin-hyeon
 Player DF Go Yo-han
-Player GK Cho Hyun-woo
+Player GK Jo Hyeon-woo
 Country se
 Player GK Robin Olsen
 Player DF Mikael Lustig
@@ -635,14 +635,14 @@ Player DF Fidel Escobar
 Player DF Román Torres
 Player MF Gabriel Gómez
 Player FW Blas Pérez
-Player MF Édgar Bárcenas
+Player MF Yoel Bárcenas
 Player FW Gabriel Torres
 Player FW Ismael Díaz
 Player MF Armando Cooper
 Player GK José Calderón
 Player DF Adolfo Machado
 Player MF Valentín Pimentel
-Player DF Erick Davis
+Player DF Eric Davis
 Player FW Abdiel Arroyo
 Player DF Luis Ovalle
 Player FW Luis Tejada
@@ -680,7 +680,7 @@ Player GK David Ospina
 Player DF Cristián Zapata
 Player DF Óscar Murillo
 Player DF Santiago Arias
-Player MF Wílmar Barrios
+Player MF Wilmar Barrios
 Player MF Carlos Sánchez Moreno
 Player FW Carlos Bacca
 Player MF Abel Aguilar
@@ -698,21 +698,21 @@ Player FW Miguel Borja
 Player MF Juan Fernando Quintero
 Player FW José Izquierdo
 Player GK José Fernando Cuadrado
-Player DF Dávinson Sánchez
+Player DF Davinson Sánchez
 Country jp
 Player GK Eiji Kawashima
 Player DF Naomichi Ueda
 Player DF Gen Shoji
 Player MF Keisuke Honda
-Player DF Yuto Nagatomo
-Player DF Wataru Endo
+Player DF Yūto Nagatomo
+Player DF Wataru Endō
 Player MF Gaku Shibasaki
 Player MF Genki Haraguchi
 Player FW Shinji Okazaki
 Player MF Shinji Kagawa
 Player MF Takashi Usami
 Player GK Masaaki Higashiguchi
-Player FW Yoshinori Mutō
+Player FW Yoshinori Muto
 Player MF Takashi Inui
 Player FW Yuya Osako
 Player MF Hotaru Yamaguchi
@@ -749,7 +749,7 @@ Player GK Łukasz Fabiański
 Player FW Dawid Kownacki
 Country sn
 Player GK Abdoulaye Diallo
-Player DF Saliou Ciss
+Player DF Adama Mbengue
 Player DF Kalidou Koulibaly
 Player DF Kara Mbodji
 Player MF Idrissa Gueye
@@ -842,7 +842,7 @@ CS Igor Akinfeev
 CS Mário Fernandes
 CS Ilya Kutepov
 CS Sergei Ignashevich
-Assist Carlos Andrés Sánchez
+Assist Carlos Sánchez Arcosa
 Goal José Giménez
 CS Fernando Muslera
 CS Guillermo Varela
@@ -883,7 +883,7 @@ CS Henrik Dalsgaard
 CS Jens Stryger Larsen
 CS Mathias Jørgensen
 CS Simon Kjær
-OG Oghenekaro Etebo
+OG Peter Etebo
 Goal Luka Modrić
 CS Danijel Subašić
 CS Dejan Lovren
@@ -954,7 +954,7 @@ CS Cédric
 CS José Fonte
 CS Pepe
 CS Raphaël Guerreiro
-Assist Carlos Andrés Sánchez
+Assist Carlos Sánchez Arcosa
 Goal Luis Suárez
 CS Fernando Muslera
 CS Diego Godín
@@ -975,7 +975,7 @@ In Nicolás Otamendi
 Goal Kylian Mbappé
 CS Hugo Lloris
 CS Benjamin Pavard
-CS Lucas Hernández
+CS Lucas Hernandez
 CS Raphaël Varane
 CS Samuel Umtiti
 Goal Ante Rebić
@@ -1071,7 +1071,7 @@ Goal Harry Kane
 Assist Ricardo Ávila
 Goal Felipe Baloy
 Goal Sadio Mané
-Assist Yuto Nagatomo
+Assist Yūto Nagatomo
 Goal Takashi Inui
 Assist M'Baye Niang
 Goal Moussa Wagué
@@ -1086,7 +1086,7 @@ Goal Radamel Falcao
 Assist James Rodríguez
 Goal Juan Cuadrado
 CS David Ospina
-CS Dávinson Sánchez
+CS Davinson Sánchez
 CS Johan Mojica
 CS Santiago Arias
 CS Yerry Mina
@@ -1109,7 +1109,7 @@ CS Fernando Muslera
 CS Diego Godín
 CS Martín Cáceres
 CS Sebastián Coates
-Assist Abdallah Said
+Assist Abdallah El Said
 Goal Mohamed Salah
 Miss Fahad Al-Muwallad
 Save Essam El-Hadary
@@ -1135,7 +1135,7 @@ CS Andreas Christensen
 CS Jens Stryger Larsen
 CS Mathias Jørgensen
 CS Steve Mandanda
-CS Lucas Hernández
+CS Lucas Hernandez
 CS Presnel Kimpembe
 CS Raphaël Varane
 CS Djibril Sidibé
@@ -1170,7 +1170,7 @@ CS Mikael Lustig
 Goal Kim Young-gwon
 Assist Ju Se-jong
 Goal Son Heung-min
-CS Cho Hyun-woo
+CS Jo Hyeon-woo
 CS Lee Yong
 CS Yun Young-sun
 CS Kim Young-gwon
@@ -1188,7 +1188,7 @@ In Joshua Kimmich
 Out Joshua Kimmich
 In Benjamin Mendy
 Out Jonas Hector
-In Lucas Hernández
+In Lucas Hernandez
 Out Manuel Neuer
 In Danijel Subašić
 Out Timo Werner
@@ -1227,7 +1227,7 @@ Goal Yerry Mina
 CS David Ospina
 CS Johan Mojica
 CS Yerry Mina
-CS Dávinson Sánchez
+CS Davinson Sánchez
 CS Santiago Arias
 Assist Youri Tielemans
 Goal Adnan Januzaj
@@ -1261,7 +1261,7 @@ Assist Éver Banega
 Goal Ángel Di María
 Assist Lionel Messi
 Goal Gabriel Mercado
-Assist Lucas Hernández
+Assist Lucas Hernandez
 Goal Benjamin Pavard
 Goal Kylian Mbappé
 Assist Olivier Giroud
@@ -1412,7 +1412,7 @@ Goal Raphaël Varane
 Assist Corentin Tolisso
 Goal Antoine Griezmann
 CS Hugo Lloris
-CS Lucas Hernández
+CS Lucas Hernandez
 CS Samuel Umtiti
 CS Raphaël Varane
 CS Benjamin Pavard
@@ -1511,7 +1511,7 @@ Assist Antoine Griezmann
 Goal Samuel Umtiti
 CS Hugo Lloris
 CS Benjamin Pavard
-CS Lucas Hernández
+CS Lucas Hernandez
 CS Raphaël Varane
 CS Samuel Umtiti
 Out Toby Alderweireld
@@ -1549,6 +1549,6 @@ Assist Domagoj Vida
 Goal Ivan Perišić
 Goal Antoine Griezmann
 Goal Paul Pogba
-Assist Lucas Hernández
+Assist Lucas Hernandez
 Goal Kylian Mbappé
 Goal Mario Mandžukić

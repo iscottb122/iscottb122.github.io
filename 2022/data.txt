@@ -10,7 +10,7 @@ Player DF Félix Torres
 Player DF Piero Hincapié
 Player DF Robert Arboleda
 Player MF José Cifuentes
-Player DF William Pacho
+Player DF Willian Pacho
 Player DF Pervis Estupiñán
 Player MF Carlos Gruezo
 Player MF Ayrton Preciado
@@ -62,7 +62,7 @@ Player DF Jeremie Frimpong
 
 Country qa
 Player GK Saad Al-Sheeb
-Player DF Ró-Ró
+Player DF Pedro Miguel
 Player MF Abdelkarim Hassan
 Player DF Mohammed Waad
 Player DF Tarek Salman
@@ -236,7 +236,7 @@ Player MF Leandro Paredes
 Player DF Germán Pezzella
 Player MF Rodrigo De Paul
 Player MF Marcos Acuña
-Player FW Julián Álvarez
+Player FW Julián Alvarez
 Player FW Lionel Messi
 Player FW Ángel Di María
 Player GK Gerónimo Rulli
@@ -401,7 +401,7 @@ Player DF Benjamin Pavard
 Player DF Axel Disasi
 Player DF Raphaël Varane
 Player DF Jules Koundé
-Player MF Matteo Guendouzi
+Player MF Mattéo Guendouzi
 Player FW Antoine Griezmann
 Player MF Aurélien Tchouaméni
 Player FW Olivier Giroud
@@ -417,7 +417,7 @@ Player DF Dayot Upamecano
 Player FW Karim Benzema
 Player FW Kingsley Coman
 Player DF Lucas Hernandez
-Player DF Theo Hernandez
+Player DF Théo Hernandez
 Player GK Alphonse Areola
 Player DF Ibrahima Konaté
 Player MF Eduardo Camavinga
@@ -510,9 +510,9 @@ Player FW Youssoufa Moukoko
 Country jp
 Player GK Eiji Kawashima
 Player DF Miki Yamane
-Player DF Shogo Taniguchi
-Player DF Ko Itakura
-Player DF Yuto Nagatomo
+Player DF Shōgo Taniguchi
+Player DF Kō Itakura
+Player DF Yūto Nagatomo
 Player MF Wataru Endo
 Player MF Gaku Shibasaki
 Player MF Ritsu Dōan
@@ -521,19 +521,19 @@ Player MF Takumi Minamino
 Player MF Takefusa Kubo
 Player GK Shūichi Gonda
 Player MF Hidemasa Morita
-Player MF Junya Ito
+Player MF Junya Itō
 Player MF Daichi Kamada
 Player DF Takehiro Tomiyasu
 Player MF Ao Tanaka
 Player FW Takuma Asano
 Player DF Hiroki Sakai
-Player FW Shuto Machino
+Player FW Shūto Machino
 Player FW Ayase Ueda
 Player DF Maya Yoshida
 Player GK Daniel Schmidt
-Player MF Yuki Soma
+Player MF Yūki Sōma
 Player FW Daizen Maeda
-Player DF Hiroki Ito
+Player DF Hiroki Itō
 
 Country es
 Player GK Robert Sánchez
@@ -552,7 +552,7 @@ Player GK David Raya
 Player DF Alejandro Balde
 Player DF Hugo Guillamón
 Player MF Rodri
-Player FW Yeremy Pino
+Player FW Yéremy Pino
 Player DF Jordi Alba
 Player MF Carlos Soler
 Player DF Dani Carvajal
@@ -1063,7 +1063,7 @@ CS Bartosz Bereszyński
 
 Assist Mathew Leckie
 Goal Craig Goodwin
-Assist Theo Hernandez
+Assist Théo Hernandez
 Goal Adrien Rabiot
 Assist Adrien Rabiot
 Goal Olivier Giroud
@@ -1096,7 +1096,7 @@ In Kai Havertz
 
 Goal İlkay Gündoğan
 Goal Ritsu Dōan
-Assist Ko Itakura
+Assist Kō Itakura
 Goal Takuma Asano
 
 Out Thomas Müller
@@ -1108,7 +1108,7 @@ In Olivier Giroud
 Out Antonio Rüdiger
 In Benjamin Pavard
 Out David Raum
-In Theo Hernandez
+In Théo Hernandez
 Out Joshua Kimmich
 In Gavi
 
@@ -1257,7 +1257,7 @@ CS Jakub Kiwior
 CS Kamil Glik
 CS Bartosz Bereszyński
 
-Assist Theo Hernandez
+Assist Théo Hernandez
 Goal Kylian Mbappé
 Assist Joachim Andersen
 Goal Andreas Christensen
@@ -1473,7 +1473,7 @@ Miss Lionel Messi
 Assist Nahuel Molina
 Goal Alexis Mac Allister
 Assist Enzo Fernández
-Goal Julián Álvarez
+Goal Julián Alvarez
 CS Emiliano Martínez
 CS Nicolás Tagliafico
 CS Germán Pezzella
@@ -1523,7 +1523,7 @@ Goal Niclas Füllkrug
 
 Assist César Azpilicueta
 Goal Álvaro Morata
-Assist Junya Ito
+Assist Junya Itō
 Goal Ritsu Dōan
 Assist Kaoru Mitoma
 Goal Ao Tanaka
@@ -1590,7 +1590,7 @@ Goal Denzel Dumfries
 
 Assist Nicolás Otamendi
 Goal Lionel Messi
-Goal Julián Álvarez
+Goal Julián Alvarez
 OG Enzo Fernández
 
 Assist Kylian Mbappé
@@ -1778,7 +1778,7 @@ Penalty Lautaro Martínez
 Red Denzel Dumfries
 
 Out Cody Gakpo
-In Julián Álvarez
+In Julián Alvarez
 Out Frenkie de Jong
 In Leandro Paredes
 Out Denzel Dumfries
@@ -1893,9 +1893,9 @@ In Marko Livaja
 Transfer
 
 Goal Lionel Messi
-Goal Julián Álvarez
+Goal Julián Alvarez
 Assist Lionel Messi
-Goal Julián Álvarez
+Goal Julián Alvarez
 CS Emiliano Martínez
 CS Juan Foyth
 CS Nicolás Tagliafico
@@ -1927,12 +1927,12 @@ In Yassine Bounou
 Out Josip Juranović
 In Yahia Attiyat Allah
 
-Goal Theo Hernandez
+Goal Théo Hernandez
 Goal Randal Kolo Muani
 CS Hugo Lloris
 CS Raphaël Varane
 CS Jules Koundé
-CS Theo Hernandez
+CS Théo Hernandez
 CS Ibrahima Konaté
 
 Out Youssef En-Nesyri

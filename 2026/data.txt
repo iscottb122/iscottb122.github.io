@@ -886,7 +886,7 @@ Player FW Facundo Pellistri
 Player GK Santiago Mele
 Player DF Guillermo Varela
 Player MF Agustín Canobbio
-Player MF Emiliano Martínez
+Player MF Emiliano Martínez Toranza
 Player DF Mathías Olivera
 Player DF Matías Viña
 Player FW Brian Rodríguez
@@ -942,7 +942,7 @@ Player FW Ahmed Qasem
 Player GK Jalal Hassan
 Player FW Ali Yousif
 Player MF Zidane Iqbal
-Player DF Ahmed Yahya
+Player DF Ahmed Maknzi
 Player MF Amir Al-Ammari
 Player FW Ali Jasim
 Player FW Aymen Hussein
@@ -1041,7 +1041,6 @@ Player DF Samir Chergui
 
 Country ar
 Player GK Juan Musso
-Player DF Leonardo Balerdi
 Player DF Nicolás Tagliafico
 Player DF Gonzalo Montiel
 Player MF Leandro Paredes
@@ -1062,7 +1061,7 @@ Player DF Nicolás Otamendi
 Player MF Alexis Mac Allister
 Player FW José Manuel López
 Player FW Lautaro Martínez
-Player GK Damián Emiliano Martínez
+Player GK Emiliano Martínez
 Player MF Enzo Fernández
 Player DF Facundo Medina
 Player DF Nahuel Molina
@@ -1375,7 +1374,7 @@ Draft Pedro Porro
 Draft Jude Bellingham
 Draft Achraf Hakimi
 
-Draft Damián Emiliano Martínez
+Draft Emiliano Martínez
 Draft Mike Maignan
 Draft Jonathan Tah
 Draft Aymeric Laporte

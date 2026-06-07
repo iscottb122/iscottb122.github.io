@@ -57,7 +57,7 @@ Player DF Andi Lila
 Player MF Ermir Lenjani
 Player DF Elseid Hysaj
 Player MF Lorik Cana
-Player DF Frederik Veseli
+Player DF Frédéric Veseli
 Player DF Ansi Agolli
 Player MF Migjen Basha
 Player MF Ledian Memushaj
@@ -84,14 +84,14 @@ Player DF Steve von Bergen
 Player DF Michael Lang
 Player FW Breel Embolo
 Player MF Fabian Frei
-Player FW Haris Seferović
+Player FW Haris Seferovic
 Player MF Granit Xhaka
 Player MF Valon Behrami
 Player GK Marwin Hitz
 Player DF Ricardo Rodríguez
 Player MF Denis Zakaria
 Player MF Blerim Džemaili
-Player MF Gélson Fernandes
+Player MF Gelson Fernandes
 Player FW Shani Tarashaj
 Player FW Admir Mehmedi
 Player FW Eren Derdiyok
@@ -145,7 +145,7 @@ Player MF Oleg Ivanov
 Player MF Aleksandr Samedov
 Player MF Dmitri Torbinski
 Player DF Georgi Shchennikov
-Player FW Artyom Dzyuba
+Player FW Artem Dzyuba
 Player DF Dmitri Kombarov
 Country gb-wls
 Player GK Wayne Hennessey
@@ -167,7 +167,7 @@ Player MF Joe Ledley
 Player MF David Cotterill
 Player FW Sam Vokes
 Player DF James Collins
-Player MF Jonathan Williams
+Player MF Jonny Williams
 Player GK Danny Ward
 Player MF David Vaughan
 Player FW Simon Church
@@ -378,10 +378,10 @@ Player DF Darijo Srna
 Player GK Lovre Kalinić
 Player DF Gordon Schildenfeld
 Player MF Marcelo Brozović
-Player MF Ante Ćorić
+Player MF Marko Rog
 Player FW Nikola Kalinić
 Player FW Mario Mandžukić
-Player MF Marko Rog
+Player MF Ante Ćorić
 Player MF Milan Badelj
 Player FW Marko Pjaca
 Player DF Domagoj Vida
@@ -398,7 +398,7 @@ Player MF Kevin De Bruyne
 Player MF Marouane Fellaini
 Player FW Romelu Lukaku
 Player MF Eden Hazard
-Player FW Yannick Ferreira Carrasco
+Player FW Yannick Carrasco
 Player GK Simon Mignolet
 Player GK Jean-François Gillet
 Player FW Dries Mertens
@@ -428,7 +428,7 @@ Player GK Federico Marchetti
 Player MF Stefano Sturaro
 Player DF Andrea Barzagli
 Player MF Daniele De Rossi
-Player FW Éder Martins
+Player FW Éder Citadin Martins
 Player MF Marco Parolo
 Player DF Leonardo Bonucci
 Player MF Lorenzo Insigne
@@ -492,7 +492,7 @@ Player DF Raphaël Guerreiro
 Player DF Ricardo Carvalho
 Player FW Cristiano Ronaldo
 Player MF João Moutinho
-Player FW Éder Lopes
+Player FW Éder
 Player MF João Mário
 Player MF Vieirinha
 Player GK Anthony Lopes
@@ -504,7 +504,7 @@ Player FW Nani
 Player MF Rafa Silva
 Player DF Eliseu
 Player FW Ricardo Quaresma
-Player DF Cédric Soares
+Player DF Cédric
 Player GK Eduardo
 Player MF Adrien Silva
 Country is
@@ -517,7 +517,7 @@ Player DF Ragnar Sigurðsson
 Player FW Jóhann Berg Guðmundsson
 Player MF Birkir Bjarnason
 Player FW Kolbeinn Sigþórsson
-Player MF Gylfi Þór Sigurðsson
+Player MF Gylfi Sigurðsson
 Player FW Alfreð Finnbogason
 Player GK Ögmundur Kristinsson
 Player GK Ingvar Jónsson
@@ -626,7 +626,7 @@ Draft Stephan Lichtsteiner
 Draft Mario Mandžukić
 Draft Giorgio Chiellini
 Draft Romelu Lukaku
-Draft Gylfi Þór Sigurðsson
+Draft Gylfi Sigurðsson
 Draft Graziano Pellè
 Draft Kyle Walker
 Draft Sami Khedira
@@ -786,7 +786,7 @@ CS Artur Jędrzejczyk
 CS Kamil Glik
 CS Łukasz Piszczek
 Assist Simone Zaza
-Goal Éder Martins
+Goal Éder Citadin Martins
 CS Gianluigi Buffon
 CS Giorgio Chiellini
 CS Alessandro Florenzi
@@ -821,7 +821,7 @@ CS Toby Alderweireld
 CS Thomas Vermaelen
 CS Jan Vertonghen
 CS Thomas Meunier
-Goal Gylfi Þór Sigurðsson
+Goal Gylfi Sigurðsson
 Assist Nemanja Nikolić
 OG Birkir Már Sævarsson
 Miss Cristiano Ronaldo
@@ -854,14 +854,14 @@ Out Harry Kane
 In Graziano Pellè
 Out Andrés Iniesta
 In Łukasz Piszczek
-Out Gylfi Þór Sigurðsson
+Out Gylfi Sigurðsson
 In Andrés Iniesta
 Out Rui Patrício
 In David de Gea
 Out Kyle Walker
 In Cristian Săpunaru
 Out Ivan Rakitić
-In Gylfi Þór Sigurðsson
+In Gylfi Sigurðsson
 Out André Gomes
 In Vladimír Weiss
 Out Emanuele Giaccherini
@@ -980,7 +980,7 @@ Out Łukasz Piszczek
 In Darijo Srna
 Out Arkadiusz Milik
 In Mario Mandžukić
-Out Gylfi Þór Sigurðsson
+Out Gylfi Sigurðsson
 In Emanuele Giaccherini
 Out David Alaba
 In Luka Modrić
@@ -1035,7 +1035,7 @@ CS Rui Patrício
 CS Pepe
 CS José Fonte
 CS Raphaël Guerreiro
-CS Cédric Soares
+CS Cédric
 Goal Ricardo Quaresma
 Goal Robbie Brady
 Assist Bacary Sagna
@@ -1063,7 +1063,7 @@ Goal Michy Batshuayi
 Assist Kevin De Bruyne
 Goal Eden Hazard
 Assist Radja Nainggolan
-Goal Yannick Ferreira Carrasco
+Goal Yannick Carrasco
 CS Thibaut Courtois
 CS Toby Alderweireld
 CS Thomas Vermaelen
@@ -1117,7 +1117,7 @@ In Artur Jędrzejczyk
 Out Gerard Piqué
 In Samuel Umtiti
 Out Álvaro Morata
-In Éder Martins
+In Éder Citadin Martins
 Out Nolito
 In Graziano Pellè
 Out Andrés Iniesta
@@ -1139,7 +1139,7 @@ In Bastian Schweinsteiger
 Out Dele Alli
 In Kingsley Coman
 Out Kyle Walker
-In Yannick Ferreira Carrasco
+In Yannick Carrasco
 Transfer
 Assist Kamil Grosicki
 Goal Robert Lewandowski
@@ -1195,7 +1195,7 @@ Assist Antoine Griezmann
 Goal Dimitri Payet
 Assist Olivier Giroud
 Goal Antoine Griezmann
-Assist Gylfi Þór Sigurðsson
+Assist Gylfi Sigurðsson
 Goal Kolbeinn Sigþórsson
 Assist Dimitri Payet
 Goal Olivier Giroud
@@ -1222,12 +1222,12 @@ In Neil Taylor
 Out Axel Witsel
 In Hal Robson-Kanu
 Out Toby Alderweireld
-In Cédric Soares
+In Cédric
 Out Thibaut Courtois
 In Wayne Hennessey
 Out Dries Mertens
 In Simone Zaza
-Out Yannick Ferreira Carrasco
+Out Yannick Carrasco
 In Joe Allen
 Out Eden Hazard
 In André Schürrle
@@ -1271,7 +1271,7 @@ Out William Carvalho
 In Moussa Sissoko
 Out Graziano Pellè
 In Anthony Martial
-Out Éder Martins
+Out Éder Citadin Martins
 In André Gomes
 Out Andrea Barzagli
 In Eliaquim Mangala
@@ -1288,7 +1288,7 @@ CS Rui Patrício
 CS Bruno Alves
 CS José Fonte
 CS Raphaël Guerreiro
-CS Cédric Soares
+CS Cédric
 Goal Antoine Griezmann
 Goal Antoine Griezmann
 CS Hugo Lloris
@@ -1329,7 +1329,7 @@ In Paul Pogba
 Out Dele Alli
 In Adrien Silva
 Out Mario Gómez
-In Éder Lopes
+In Éder
 Out Mats Hummels
 In Bruno Alves
 Out Julian Draxler
@@ -1355,11 +1355,11 @@ CS Rui Patrício
 CS Pepe
 CS José Fonte
 CS Raphaël Guerreiro
-CS Cédric Soares
+CS Cédric
 CS Hugo Lloris
 CS Patrice Evra
 CS Bacary Sagna
 CS Laurent Koscielny
 CS Samuel Umtiti
 Assist João Moutinho
-Goal Éder Lopes
+Goal Éder

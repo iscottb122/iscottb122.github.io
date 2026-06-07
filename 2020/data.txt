@@ -17,7 +17,7 @@ Player FW Andrea Belotti
 Player FW Lorenzo Insigne
 Player FW Domenico Berardi
 Player MF Matteo Pessina
-Player DF Emerson
+Player DF Emerson Palmieri
 Player MF Federico Chiesa
 Player DF Francesco Acerbi
 Player MF Bryan Cristante
@@ -41,11 +41,11 @@ Player DF Manuel Akanji
 Player MF Denis Zakaria
 Player FW Breel Embolo
 Player MF Remo Freuler
-Player FW Haris Seferović
+Player FW Haris Seferovic
 Player MF Granit Xhaka
 Player MF Ruben Vargas
 Player GK Yvon Mvogo
-Player DF Ricardo Rodríguez
+Player DF Ricardo Rodriguez
 Player MF Steven Zuber
 Player MF Djibril Sow
 Player MF Christian Fassnacht
@@ -173,7 +173,7 @@ Player MF Anders Christiansen
 Player DF Nicolai Boilesen
 
 Country fi
-Player GK Lukáš Hrádecký
+Player GK Lukas Hradecky
 Player DF Paulus Arajuuri
 Player DF Daniel O'Shaughnessy
 Player DF Joona Toivio
@@ -304,7 +304,7 @@ Player MF Enis Bardhi
 Player FW Vlatko Stojanovski
 Player FW Krste Velkoski
 Player MF Stefan Spirovski
-Player MF Elif Elmas
+Player MF Eljif Elmas
 Player GK Damjan Shishkovski
 Player FW Marjan Radeski
 Player FW Daniel Avramovski
@@ -330,7 +330,7 @@ Player MF Viktor Tsyhankov
 Player DF Vitaliy Mykolenko
 Player DF Oleksandr Zinchenko
 Player MF Roman Bezus
-Player FW Artem Besyedin
+Player FW Artem Besedin
 Player FW Oleksandr Zubkov
 Player DF Oleksandr Karavayev
 Player DF Mykola Matviyenko
@@ -426,7 +426,7 @@ Player MF Jude Bellingham
 Country gb-sct
 Player GK David Marshall
 Player DF Stephen O'Donnell
-Player DF Andrew Robertson
+Player DF Andy Robertson
 Player MF Scott McTominay
 Player DF Grant Hanley
 Player DF Kieran Tierney
@@ -664,7 +664,6 @@ Player MF Renato Sanches
 Player MF Gonçalo Guedes
 Player MF Rúben Neves
 Player MF Pedro Gonçalves
-Player DF João Cancelo
 Player DF Diogo Dalot
 Player FW Diogo Jota
 Player GK Rui Silva
@@ -672,6 +671,7 @@ Player FW João Félix
 Player MF Sérgio Oliveira
 Player DF Nuno Mendes
 Player MF João Palhinha
+Player DF João Cancelo
 
 Draft Harry Kane
 Draft Kylian Mbappé
@@ -718,7 +718,7 @@ Draft Aymeric Laporte
 Draft Presnel Kimpembe
 Draft Paul Pogba
 Draft Bernardo Silva
-Draft Ricardo Rodríguez
+Draft Ricardo Rodriguez
 Draft Dani Olmo
 
 Draft Mason Mount
@@ -767,9 +767,9 @@ Goal Kieffer Moore
 
 Assist Jere Uronen
 Goal Joel Pohjanpalo
-Save Lukáš Hrádecký
+Save Lukas Hradecky
 Miss Pierre-Emile Højbjerg
-CS Lukáš Hrádecký
+CS Lukas Hradecky
 CS Paulus Arajuuri
 CS Daniel O'Shaughnessy
 CS Joona Toivio
@@ -877,7 +877,7 @@ CS Presnel Kimpembe
 CS Raphaël Varane
 CS Lucas Hernandez
 
-Out Ricardo Rodríguez
+Out Ricardo Rodriguez
 In Joshua Kimmich
 Out Robert Lewandowski
 In Andriy Yarmolenko
@@ -899,7 +899,7 @@ In Leroy Sané
 Out Andriy Yarmolenko
 In Robert Lewandowski
 Out Oleksandr Zinchenko
-In Ricardo Rodríguez
+In Ricardo Rodriguez
 
 Assist Artem Dzyuba
 Goal Aleksei Miranchuk
@@ -990,7 +990,7 @@ CS Tyrone Mings
 CS Reece James
 CS David Marshall
 CS Stephen O'Donnell
-CS Andrew Robertson
+CS Andy Robertson
 CS Grant Hanley
 CS Kieran Tierney
 
@@ -1013,7 +1013,7 @@ Goal Diogo Jota
 
 Out Federico Chiesa
 In Diogo Jota
-Out Ricardo Rodríguez
+Out Ricardo Rodriguez
 In Robin Gosens
 Out Phil Foden
 In Kai Havertz
@@ -1043,7 +1043,7 @@ Out Artem Dzyuba
 In Giorgio Chiellini
 
 Assist Steven Zuber
-Goal Haris Seferović
+Goal Haris Seferovic
 Assist Steven Zuber
 Goal Xherdan Shaqiri
 Assist Hakan Çalhanoğlu
@@ -1056,7 +1056,7 @@ Goal Matteo Pessina
 Red Ethan Ampadu
 CS Gianluigi Donnarumma
 CS Salvatore Sirigu
-CS Emerson
+CS Emerson Palmieri
 CS Francesco Acerbi
 CS Leonardo Bonucci
 CS Alessandro Bastoni
@@ -1092,7 +1092,7 @@ Assist Pierre-Emile Højbjerg
 Goal Joakim Mæhle
 
 Assist Thomas Vermaelen
-OG Lukáš Hrádecký
+OG Lukas Hradecky
 Assist Kevin De Bruyne
 Goal Romelu Lukaku
 CS Thibaut Courtois
@@ -1330,16 +1330,16 @@ Out Gerard Moreno
 In Álvaro Morata
 
 Assist Steven Zuber
-Goal Haris Seferović
+Goal Haris Seferovic
 Save Hugo Lloris
-Miss Ricardo Rodríguez
+Miss Ricardo Rodriguez
 Assist Kylian Mbappé
 Goal Karim Benzema
 Assist Antoine Griezmann
 Goal Karim Benzema
 Goal Paul Pogba
 Assist Kevin Mbabu
-Goal Haris Seferović
+Goal Haris Seferovic
 Assist Granit Xhaka
 Goal Mario Gavranović
 Penalty Mario Gavranović
@@ -1377,7 +1377,7 @@ In Andreas Christensen
 Out Dries Mertens
 In Xherdan Shaqiri
 Out Antoine Griezmann
-In Haris Seferović
+In Haris Seferovic
 Out Benjamin Pavard
 In Tomáš Souček
 Out Hugo Lloris
@@ -1448,7 +1448,7 @@ Out Tyrone Mings
 In Xherdan Shaqiri
 Out Pablo Sarabia
 In Mason Mount
-Out Haris Seferović
+Out Haris Seferovic
 In Kalvin Phillips
 Out Xherdan Shaqiri
 In Tyrone Mings
@@ -1477,7 +1477,7 @@ In Martin Braithwaite
 Out Sergio Busquets
 In Bukayo Saka
 Out Thomas Vermaelen
-In Emerson
+In Emerson Palmieri
 Out Matteo Pessina
 In Patrik Schick
 Out Leonardo Spinazzola

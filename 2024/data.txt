@@ -35,7 +35,7 @@ Player FW Deniz Undav
 Country gb-sct
 Player GK Angus Gunn
 Player DF Anthony Ralston
-Player DF Andrew Robertson
+Player DF Andy Robertson
 Player MF Scott McTominay
 Player DF Grant Hanley
 Player DF Kieran Tierney
@@ -538,7 +538,7 @@ Country ua
 Player GK Heorhiy Bushchan
 Player DF Yukhym Konoplya
 Player DF Oleksandr Svatok
-Player DF Maksym Taloverov
+Player DF Maksym Talovyerov
 Player MF Serhiy Sydorchuk
 Player MF Taras Stepanenko
 Player MF Andriy Yarmolenko
