@@ -229,7 +229,7 @@ Player FW Cedric Itten
 
 Country br
 Player GK Alisson
-Player DF Wesley
+Player MF Éderson Silva
 Player DF Gabriel Magalhães
 Player DF Marquinhos
 Player MF Casemiro
@@ -441,7 +441,7 @@ Player MF Sebastian Berhalter
 Player MF Cristian Roldan
 Player DF Alex Freeman
 Player MF Malik Tillman
-Player DF Maximilian Arfsten
+Player DF Max Arfsten
 Player FW Haji Wright
 Player FW Folarin Balogun
 Player FW Timothy Weah
@@ -593,7 +593,7 @@ Player FW Kento Shiogai
 
 Country nl
 Player GK Bart Verbruggen
-Player DF Jurriën Timber
+Player DF Lutsharel Geertruida
 Player MF Marten de Roon
 Player DF Virgil van Dijk
 Player DF Nathan Aké
@@ -1111,6 +1111,7 @@ Player MF Rajaei Ayed
 Player MF Ibrahim Sadeh
 Player DF Mo Abualnadi
 Player DF Salim Obaid
+Player DF Mohammad Taha
 Player DF Saed Al-Rosan
 Player MF Mohannad Abu Taha
 Player MF Nizar Al-Rashdan
