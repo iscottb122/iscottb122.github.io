@@ -1,6 +1,6 @@
 const NBSP = "\u00A0";
-const OUT = "\u2B9F";
-const IN = "\u2B9D";
+const OUT = "\u25BC";
+const IN = "\u25B2";
 
 var year = document.URL.split('/').slice(-2, -1)[0];
 var bonus = year == "2016" || year == "2018" ? 4 : 10;
