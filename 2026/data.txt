@@ -140,7 +140,7 @@ Player FW Esmir Bajraktarević
 Player DF Stjepan Radeljić
 Player GK Martin Zlomislić
 Player FW Haris Tabaković
-Player DF Nidal Čelik
+Player DF Arjan Malić
 Player FW Jovo Lukić
 Player MF Ermin Mahmić
 
@@ -170,7 +170,7 @@ Player DF Richie Laryea
 Player DF Niko Sigur
 Player FW Promise David
 Player MF Nathan Saliba
-Player MF Jayden Nelson
+Player FW Jayden Nelson
 
 Country qa
 Player GK Mahmud Abunada
@@ -270,7 +270,7 @@ Player MF Jean-Ricner Bellegarde
 Player FW Louicius Deedson
 Player GK Alexandre Pierre
 Player DF Duke Lacroix
-Player MF Leverton Pierre
+Player DF Garven Metusala
 Player FW Ruben Providence
 Player FW Lenny Joseph
 Player MF Danley Jean Jacques
@@ -570,7 +570,7 @@ Player DF Yukinari Sugawara
 Player DF Shōgo Taniguchi
 Player DF Kō Itakura
 Player DF Yūto Nagatomo
-Player MF Wataru Endo
+Player FW Shūto Machino
 Player MF Ao Tanaka
 Player MF Takefusa Kubo
 Player FW Keisuke Gotō
@@ -874,7 +874,7 @@ Player FW Borja Iglesias
 
 Country uy
 Player GK Sergio Rochet
-Player DF José Giménez
+Player DF José María Giménez
 Player DF Sebastián Cáceres
 Player DF Ronald Araújo
 Player MF Manuel Ugarte
@@ -982,7 +982,7 @@ Player MF Oscar Bobb
 Player MF Jens Petter Hauge
 Player DF Sondre Langås
 Player DF Henrik Falchener
-Player FW Julian Ryerson
+Player DF Julian Ryerson
 
 Country sn
 Player GK Yehvann Diouf
@@ -1042,6 +1042,7 @@ Player DF Samir Chergui
 
 Country ar
 Player GK Juan Musso
+Player DF Marcos Senesi
 Player DF Nicolás Tagliafico
 Player DF Gonzalo Montiel
 Player MF Leandro Paredes
@@ -1113,7 +1114,7 @@ Player MF Rajaei Ayed
 Player MF Ibrahim Sadeh
 Player DF Mo Abualnadi
 Player DF Salim Obaid
-Player DF Mohammad Taha
+Player MF Mohammad Taha
 Player DF Saed Al-Rosan
 Player MF Mohannad Abu Taha
 Player MF Nizar Al-Rashdan
