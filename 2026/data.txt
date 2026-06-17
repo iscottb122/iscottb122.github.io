@@ -251,7 +251,7 @@ Player FW Endrick
 Player MF Lucas Paquetá
 Player FW Luiz Henrique
 Player FW Gabriel Martinelli
-Player GK Ederson
+Player GK Ederson Moraes
 Player DF Roger Ibañez
 Player FW Igor Thiago
 Player FW Rayan
@@ -792,7 +792,7 @@ Country cv
 Player GK Vozinha
 Player DF Stopira
 Player DF Diney
-Player DF Roberto Lopes
+Player DF Pico
 Player DF Logan Costa
 Player MF Kevin Pina
 Player MF Jovane Cabral
@@ -1218,7 +1218,7 @@ Player MF Akmal Mozgovoy
 Player MF Otabek Shukurov
 Player MF Jamshid Iskanderov
 Player MF Odiljon Hamrobekov
-Player MF Jaloliddin Masharipov
+Player MF Ruslanbek Jiyanov
 Player MF Oston Urunov
 Player GK Abduvohid Nematov
 Player DF Sherzod Nasrullaev
@@ -1549,7 +1549,7 @@ CS Unai Simón
 CS Marc Cucurella
 CS Vozinha
 CS Diney
-CS Roberto Lopes
+CS Pico
 CS Sidny Lopes Cabral
 CS Steven Moreira
 
