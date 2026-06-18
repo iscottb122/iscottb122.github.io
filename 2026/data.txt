@@ -1660,3 +1660,10 @@ Out Martin Ødegaard
 In Federico Valverde
 Out Kai Havertz
 In Matheus Cunha
+
+Transfer
+
+Out Matheus Cunha
+In Kai Havertz
+Out Federico Valverde
+In Lee Kang-in
