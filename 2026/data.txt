@@ -748,8 +748,8 @@ Player GK Payam Niazmand
 Player DF Hossein Kanaanizadegan
 Player MF Saman Ghoddos
 Player MF Rouzbeh Cheshmi
-Player MF Mehdi Torabi
-Player DF Aria Yousefi
+Player MF Mahdi Torabi
+Player DF Arya Yousefi
 Player FW Amirhossein Hosseinzadeh
 Player DF Ali Nemati
 Player FW Shahriyar Moghanlou
@@ -934,7 +934,7 @@ Player DF Rebin Sulaka
 Player DF Hussein Ali
 Player DF Zaid Tahseen
 Player DF Akam Hashim
-Player DF Manaf Younis
+Player DF Munaf Younis
 Player MF Youssef Amyn
 Player MF Ibrahim Bayesh
 Player FW Ali Al-Hamadi
