@@ -1818,3 +1818,20 @@ CS Aymeric Laporte
 CS Pau Cubarsí
 CS Unai Simón
 CS Marc Cucurella
+
+Red Nathan Ngoy
+CS Thibaut Courtois
+CS Arthur Theate
+CS Brandon Mechele
+CS Maxim De Cuyper
+CS Thomas Meunier
+CS Timothy Castagne
+CS Nathan Ngoy
+CS Alireza Beiranvand
+CS Saleh Hardani
+CS Ehsan Hajsafi
+CS Shojae Khalilzadeh
+CS Milad Mohammadi
+CS Hossein Kanaanizadegan
+CS Ali Nemati
+CS Ramin Rezaeian
