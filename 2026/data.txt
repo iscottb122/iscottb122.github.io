@@ -1863,5 +1863,10 @@ CS Emiliano Martínez
 CS Facundo Medina
 CS Nahuel Molina
 
+Out Marcos Llorente
+In Facundo Medina
+Out Maximiliano Araújo
+In Ezri Konsa
+
 Assist Michael Olise
 Goal Kylian Mbappé
