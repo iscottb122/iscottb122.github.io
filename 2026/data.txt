@@ -934,7 +934,7 @@ Player DF Rebin Sulaka
 Player DF Hussein Ali
 Player DF Zaid Tahseen
 Player DF Akam Hashim
-Player DF Munaf Younis
+Player DF Manaf Younis
 Player MF Youssef Amyn
 Player MF Ibrahim Bayesh
 Player FW Ali Al-Hamadi
