@@ -1910,3 +1910,8 @@ CS Rúben Dias
 CS Renato Veiga
 CS João Cancelo
 CS Nuno Mendes
+
+Out Nico Williams
+In Ayase Ueda
+Out Hakan Çalhanoğlu
+In Brian Gutiérrez
