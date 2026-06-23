@@ -1929,3 +1929,6 @@ CS Abdul Rahman Baba
 CS Jerome Opoku
 CS Kojo Peprah Oppong
 CS Marvin Senaya
+
+Out Diogo Costa
+In Bart Verbruggen
