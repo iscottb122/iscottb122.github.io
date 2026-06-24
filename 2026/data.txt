@@ -1958,3 +1958,14 @@ Out Lucas Paquetá
 In Morgan Rogers
 Out Reece James
 In Issa Diop
+Out Kai Havertz
+In Brahim Díaz
+
+Transfer
+
+Out Morgan Rogers
+In Lucas Paquetá
+Out Issa Diop
+In Reece James
+Out Brahim Díaz
+In Kai Havertz
