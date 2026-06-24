@@ -1930,9 +1930,6 @@ CS Jerome Opoku
 CS Kojo Peprah Oppong
 CS Marvin Senaya
 
-Out Diogo Costa
-In Bart Verbruggen
-
 Assist Josip Stanišić
 Goal Ante Budimir
 CS Dominik Livaković
@@ -1941,6 +1938,8 @@ CS Marin Pongračić
 CS Joško Gvardiol
 CS Josip Šutalo
 
+Out Diogo Costa
+In Bart Verbruggen
 Out Declan Rice
 In Mostafa Ziko
 Out Vitinha
