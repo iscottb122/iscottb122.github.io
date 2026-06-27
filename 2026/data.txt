@@ -2094,6 +2094,7 @@ Assist Andreas Schjelderup
 Goal Thelo Aasgaard
 Assist Aurélien Tchouaméni
 Goal Ousmane Dembélé
+Save Mike Maignan
 Miss Jørgen Strand Larsen
 Assist Bradley Barcola
 Goal Désiré Doué
@@ -2109,3 +2110,8 @@ Assist Iliman Ndiaye
 Goal Pape Gueye
 Assist Pape Gueye
 Goal Iliman Ndiaye
+CS Abdoulaye Seck
+CS Ismail Jakobs
+CS Krépin Diatta
+CS Moussa Niakhaté
+CS Mory Diaw
