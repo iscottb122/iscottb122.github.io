@@ -2298,3 +2298,5 @@ Out Nathaniel Brown
 In Marcos Llorente
 Out Jamal Musiala
 In Adrien Rabiot
+Out Virgil van Dijk
+In Issa Diop
