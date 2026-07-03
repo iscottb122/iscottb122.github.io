@@ -1,4 +1,4 @@
-const SPACE = "\u00A0";
+const NBSP = "\u00A0";
 const OUT = "\u25BC";
 const IN = "\u25B2";
 
@@ -145,8 +145,8 @@ function sortName(a, b) {
 function fromEvent(name, value, info) {
     var span = document.createElement("span");
     span.appendChild(document.createTextNode(`${name} (${value})`));
-    span.appendChild(document.createTextNode(SPACE));
-    span.appendChild(document.createTextNode(SPACE));
+    span.appendChild(document.createTextNode(NBSP));
+    span.appendChild(document.createTextNode(NBSP));
     span.appendChild(info);
     return span;
 }
@@ -155,8 +155,8 @@ function fromOut(player) {
     var span = document.createElement("span");
     span.classList.add("text-danger");
     span.appendChild(document.createTextNode(OUT));
-    span.appendChild(document.createTextNode(SPACE));
-    span.appendChild(document.createTextNode(SPACE));
+    span.appendChild(document.createTextNode(NBSP));
+    span.appendChild(document.createTextNode(NBSP));
     span.appendChild(fromPlayer(player));
     return span;
 }
@@ -165,8 +165,8 @@ function fromIn(player) {
     var span = document.createElement("span");
     span.classList.add("text-success");
     span.appendChild(document.createTextNode(IN));
-    span.appendChild(document.createTextNode(SPACE));
-    span.appendChild(document.createTextNode(SPACE));
+    span.appendChild(document.createTextNode(NBSP));
+    span.appendChild(document.createTextNode(NBSP));
     span.appendChild(fromPlayer(player));
     return span;
 }
@@ -174,8 +174,8 @@ function fromIn(player) {
 function fromPlayer(player) {
     var span = document.createElement("span");
     span.appendChild(document.createTextNode(player.position));
-    span.appendChild(document.createTextNode(SPACE));
-    span.appendChild(document.createTextNode(SPACE));
+    span.appendChild(document.createTextNode(NBSP));
+    span.appendChild(document.createTextNode(NBSP));
     span.appendChild(fromPerson(player));
     return span;
 }
@@ -190,8 +190,8 @@ function fromPerson(person) {
     flag.src = `https://flagcdn.com/${person.country}.svg`;
     flag.height = 15;
     span.appendChild(flag);
-    span.appendChild(document.createTextNode(SPACE));
-    span.appendChild(document.createTextNode(SPACE));
+    span.appendChild(document.createTextNode(NBSP));
+    span.appendChild(document.createTextNode(NBSP));
     span.appendChild(document.createTextNode(`${person.name} (${person.value})`));
     return span;
 }
