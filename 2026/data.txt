@@ -2416,6 +2416,11 @@ Penalty Mohamed Salah
 Miss Lucas Herrington
 Penalty Hossam Abdelmaguid
 
+Out Mostafa Ziko
+In Adrien Rabiot
+Out Adrien Rabiot
+In Youri Tielemans
+
 Assist Lisandro Martínez
 Goal Lionel Messi
 Assist Ryan Mendes
@@ -2425,3 +2430,6 @@ Goal Lisandro Martínez
 Assist Yannick Semedo
 Goal Sidny Lopes Cabral
 OG Diney
+
+Out Marcus Rashford
+In Luis Díaz
