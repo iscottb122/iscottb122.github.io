@@ -2471,3 +2471,6 @@ CS Noussair Mazraoui
 CS Marwane Saâdane
 CS Issa Diop
 CS Redouane Halhal
+
+Out Ismael Saibari
+In Rodrigo De Paul
