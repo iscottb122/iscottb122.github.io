@@ -2538,3 +2538,27 @@ Assist Charles De Ketelaere
 Goal Hans Vanaken
 Assist Hans Vanaken
 Goal Romelu Lukaku
+
+Assist Marwan Attia
+Goal Yasser Ibrahim
+Save Mostafa Shobeir
+Miss Lionel Messi
+Assist Haissem Hassan
+Goal Mostafa Ziko
+Assist Lionel Messi
+Goal Cristian Romero
+Assist Gonzalo Montiel
+Goal Lionel Messi
+Assist Lautaro Martínez
+Goal Enzo Fernández
+
+Out Facundo Medina
+In Mostafa Ziko
+Out Bukayo Saka
+In Breel Embolo
+Out Issa Diop
+In Facundo Medina
+Out Mostafa Ziko
+In Nicolás Tagliafico
+Out Azzedine Ounahi
+In Enzo Fernández
