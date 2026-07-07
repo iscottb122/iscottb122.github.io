@@ -2562,3 +2562,5 @@ Out Mostafa Ziko
 In Nicolás Tagliafico
 Out Azzedine Ounahi
 In Enzo Fernández
+Out Facundo Medina
+In Marcos Llorente
