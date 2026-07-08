@@ -2593,3 +2593,5 @@ Out Rafael Leão
 In Luis Díaz
 Out Nuno Mendes
 In Johan Mojica
+Out Johan Manzambi
+In Mikel Merino
