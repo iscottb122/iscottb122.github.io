@@ -2595,3 +2595,5 @@ Out Nuno Mendes
 In Johan Mojica
 Out Johan Manzambi
 In Mikel Merino
+Out Daniel Muñoz
+In Issa Diop
