@@ -2633,3 +2633,5 @@ Out Leandro Trossard
 In Bukayo Saka
 Out Youri Tielemans
 In Manu Koné
+Out Kevin De Bruyne
+In Rodrigo De Paul
