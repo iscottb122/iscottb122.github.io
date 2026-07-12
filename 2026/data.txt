@@ -2648,3 +2648,7 @@ Out Ørjan Nyland
 In Gregor Kobel
 Out Martin Ødegaard
 In Morgan Rogers
+Out Erling Haaland
+In Dani Olmo
+Out Andreas Schjelderup
+In Elliot Anderson
