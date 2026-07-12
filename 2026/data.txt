@@ -2652,3 +2652,15 @@ Out Erling Haaland
 In Dani Olmo
 Out Andreas Schjelderup
 In Elliot Anderson
+
+Assist Lionel Messi
+Goal Alexis Mac Allister
+Assist Ricardo Rodriguez
+Goal Dan Ndoye
+Red Breel Embolo
+Assist José Manuel López
+Goal Julián Alvarez
+Goal Lautaro Martínez
+
+Out Breel Embolo
+In Lautaro Martínez
