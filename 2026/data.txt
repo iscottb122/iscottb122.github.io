@@ -2695,3 +2695,5 @@ Out Adrien Rabiot
 In Eberechi Eze
 Out William Saliba
 In Reece James
+Out Dayot Upamecano
+In Djed Spence
