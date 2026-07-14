@@ -2693,3 +2693,5 @@ Out Lucas Digne
 In Marc Pubill
 Out Adrien Rabiot
 In Eberechi Eze
+Out William Saliba
+In Reece James
