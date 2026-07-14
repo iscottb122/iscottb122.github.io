@@ -2683,3 +2683,13 @@ Goal Mikel Oyarzabal
 
 Out Marcos Llorente
 In Maxence Lacroix
+Out Pedri
+In Giovani Lo Celso
+Out Manu Koné
+In Pedri
+Out Bradley Barcola
+In Nico Williams
+Out Lucas Digne
+In Marc Pubill
+Out Adrien Rabiot
+In Eberechi Eze
