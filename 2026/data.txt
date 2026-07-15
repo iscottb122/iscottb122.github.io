@@ -1207,6 +1207,7 @@ Player MF Vitinha
 Player DF Samú Costa
 Player DF Nuno Mendes
 Player FW Francisco Conceição
+Player FW Diogo Jota
 
 Country uz
 Player GK Utkir Yusupov
@@ -1413,6 +1414,13 @@ Draft Vitinha
 Draft Dani Olmo
 Draft Leroy Sané
 Draft Hakan Çalhanoğlu
+
+Draft Diogo Jota
+
+Goal Diogo Jota
+Goal Diogo Jota
+Goal Diogo Jota
+Goal Diogo Jota
 
 Out Pedro Porro
 In Ricardo Rodriguez
