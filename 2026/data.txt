@@ -2723,3 +2723,5 @@ Out Aurélien Tchouaméni
 In Kobbie Mainoo
 Out Rayan Cherki
 In Dan Burn
+Out Ousmane Dembélé
+In Noni Madueke
