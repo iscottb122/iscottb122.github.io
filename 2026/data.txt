@@ -2749,3 +2749,5 @@ Out Marcus Rashford
 In Kylian Mbappé
 Out Eberechi Eze
 In Leandro Paredes
+Out Reece James
+In Eric García
