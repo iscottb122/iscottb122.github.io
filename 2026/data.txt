@@ -2768,3 +2768,5 @@ CS Nicolás Otamendi
 CS Emiliano Martínez
 CS Facundo Medina
 CS Nahuel Molina
+Assist Nico Williams
+Goal Ferran Torres
